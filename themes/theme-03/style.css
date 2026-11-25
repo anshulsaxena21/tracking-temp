@@ -148,3 +148,13 @@
 @media(max-width:760px){
   .store-video{height:auto;aspect-ratio:16 / 9}
 }
+
+/* Expandable shipment scan history, controlled by the In-Transit info button */
+.history-toggle{display:inline-grid;place-items:center;width:20px;height:20px;margin-left:3px;padding:0;vertical-align:middle;border:0;border-radius:50%;background:#fff1e9;color:#f47b2b;font-size:14px;cursor:pointer}
+.history-toggle:hover,.history-toggle:focus-visible{background:#ffe1d1;outline:2px solid rgba(244,123,43,.25);outline-offset:2px}
+.history-panel[hidden]{display:none!important}
+.history-panel:not([hidden]){display:block;animation:historyReveal .18s ease-out}
+.history-scroll{height:220px;max-height:220px;overflow-y:auto;overflow-x:auto;overscroll-behavior:contain;scrollbar-gutter:stable}
+.history-table thead th{position:sticky;top:0}
+@keyframes historyReveal{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:reduce){.history-panel:not([hidden]){animation:none}}
