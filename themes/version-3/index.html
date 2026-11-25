@@ -6,7 +6,7 @@
 <title>The Souled Store | Track Your Order</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css">\n<link rel="stylesheet" href="styles.css">
 </head>
 <body>
 <div class="canvas-viewport"><div id="designCanvas" class="design-canvas">
@@ -30,8 +30,8 @@
 <article class="timeline">
 <img class="courier" src="assets/images/blue-dart-courier-logo.png" alt="Blue Dart">
 <div class="events">
-<div class="event delivered"><div class="date"><strong>21 Nov</strong><span>10:43 AM</span></div><span class="marker">✓</span><div class="event-info"><strong>Shipment Delivered</strong><span>Location : NOI_Sector2</span></div></div>
-<div class="event transit"><div class="date"><strong>21 Nov</strong><span>10:43 AM</span></div><span class="marker">✓</span><div class="event-info"><strong>Shipment In-Transit</strong><button id="historyToggle" class="history-toggle" type="button" aria-expanded="false" aria-controls="scanHistory">Show Status ⓘ</button></div></div>
+<div class="event delivered"><div class="date"><strong>21 Nov</strong><span>10:43 AM</span></div><span class="marker" aria-label="Completed"><i class="ph ph-check" aria-hidden="true"></i></span><div class="event-info"><strong>Shipment Delivered</strong><span>Location : NOI_Sector2</span></div></div>
+<div class="event transit"><div class="date"><strong>21 Nov</strong><span>10:43 AM</span></div><span class="marker">✓</span><div class="event-info"><strong>Shipment In-Transit</strong><button id="historyToggle" class="history-toggle" type="button" aria-expanded="false" aria-controls="scanHistory"><span class="history-label">Show Status</span><i class="ph ph-info" aria-hidden="true"></i></button></div></div>
 </div>
 <div class="history" id="scanHistory" hidden><div class="scan-scroll"><table><thead><tr><th>Scanned At</th><th>Location</th><th>Remark</th></tr></thead><tbody>
 <tr><td>07 Nov,24 05:30 PM</td><td>Sirmathura, Sirmathura, RAJASTHAN</td><td>Text Cell</td></tr>
@@ -59,7 +59,7 @@
 </div><a class="view-all" href="#products">View All</a>
 </section>
 </main>
-<footer class="footer"><span>All Rights Reserved.</span><nav aria-label="Social links"><a href="#" aria-label="Facebook">f</a><a href="#" aria-label="Instagram">◎</a><a href="#" aria-label="YouTube">▶</a></nav></footer>
+<footer class="footer"><span>All Rights Reserved.</span><nav aria-label="Social links"><a href="#" aria-label="Facebook"><i class="ph ph-facebook-logo" aria-hidden="true"></i></a><a href="#" aria-label="Instagram"><i class="ph ph-instagram-logo" aria-hidden="true"></i></a><a href="#" aria-label="YouTube"><i class="ph ph-youtube-logo" aria-hidden="true"></i></a></nav></footer>
 </div></div>
 <script src="app.js"></script>
 </body></html>
