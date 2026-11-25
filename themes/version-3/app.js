@@ -1,0 +1,6 @@
+const form=document.getElementById("trackingForm");
+const input=document.getElementById("trackingInput");
+const feedback=document.getElementById("formFeedback");
+form.addEventListener("submit",event=>{event.preventDefault();const value=input.value.trim();const mode=document.querySelector('input[name="trackMode"]:checked')?.value||"waybill";if(!value){feedback.textContent="Please enter your tracking details.";input.focus();return;}if(mode==="mobile"&&!/^[+\d][\d\s-]{7,14}$/.test(value)){feedback.textContent="Please enter a valid mobile number.";input.focus();return;}if(mode!=="mobile"&&value.length<4){feedback.textContent="Please enter at least 4 characters.";input.focus();return;}feedback.textContent="Demo preview: showing sample shipment details. Connect a courier API for live tracking.";});
+const toggle=document.getElementById("historyToggle"),history=document.getElementById("scanHistory");
+toggle.addEventListener("click",()=>{const open=toggle.getAttribute("aria-expanded")==="true";toggle.setAttribute("aria-expanded",String(!open));toggle.textContent=open?"Show Status ⓘ":"Hide Status ⓘ";history.hidden=open;});

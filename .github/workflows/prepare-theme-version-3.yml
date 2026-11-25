@@ -1,0 +1,38 @@
+name: Prepare Theme Version 3 assets
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'themes/version-3/**'
+      - 'scripts/prepare-theme-version-3.mjs'
+      - '.github/workflows/prepare-theme-version-3.yml'
+      - 'Theme Version 3.zip'
+      - 'figma-design Theme Version 3.json'
+      - 'layer-descriptions Theme Version 3.json'
+      - 'layer-descriptions Theme Version 3.csv'
+      - 'figma-tokens Theme Version 3.css'
+permissions:
+  contents: write
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Extract supplied assets and design documentation
+        run: node scripts/prepare-theme-version-3.mjs
+      - name: Commit prepared assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add themes/version-3/assets themes/version-3/source themes/version-3/docs
+          if git diff --cached --quiet; then
+            echo "Theme assets already prepared."
+          else
+            git commit -m "Add Version 3 theme assets and source"
+            git push
+          fi

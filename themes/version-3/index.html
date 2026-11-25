@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#fff"><meta name="description" content="The Souled Store shipment tracking page">
+<title>The Souled Store | Track Your Order</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="header"><a class="logo" href="#top" aria-label="The Souled Store home"><img src="assets/images/souled-store-logo.png" alt="The Souled Store"></a><a class="home" href="#top">Home</a></header>
+<div class="offer"><span>Flash Deal : Flat 50% off on orders above 1299</span><img src="assets/images/flash-sale-fire-icon.png" alt=""></div>
+<main id="top">
+<section class="hero"><div class="track-card">
+<h1>Enter your waybill number to track your package</h1>
+<form id="trackingForm">
+<fieldset class="modes" aria-label="Track by">
+<label><input type="radio" name="trackMode" value="waybill" checked><span>Waybill</span></label>
+<label><input type="radio" name="trackMode" value="order"><span>Order ID</span></label>
+<label><input type="radio" name="trackMode" value="mobile"><span>Mobile Number</span></label>
+</fieldset>
+<div class="input-row"><input id="trackingInput" value="989687675" aria-label="Tracking number"><button type="submit">Track</button></div>
+<p class="feedback" id="formFeedback" role="status" aria-live="polite"></p>
+</form></div></section>
+<section class="tracking wrap">
+<h2>Tracking Number : TXN98987</h2>
+<div class="tracking-grid">
+<article class="timeline">
+<img class="courier" src="assets/images/blue-dart-courier-logo.png" alt="Blue Dart">
+<div class="events">
+<div class="event delivered"><div class="date"><strong>21 Nov</strong><span>10:43 AM</span></div><span class="marker">✓</span><div class="event-info"><strong>Shipment Delivered</strong><span>Location : NOI_Sector2</span></div></div>
+<div class="event transit"><div class="date"><strong>21 Nov</strong><span>10:43 AM</span></div><span class="marker">✓</span><div class="event-info"><strong>Shipment In-Transit</strong><button id="historyToggle" class="history-toggle" type="button" aria-expanded="false" aria-controls="scanHistory">Show Status ⓘ</button></div></div>
+</div>
+<div class="history" id="scanHistory" hidden><div class="scan-scroll"><table><thead><tr><th>Scanned At</th><th>Location</th><th>Remark</th></tr></thead><tbody>
+<tr><td>07 Nov,24 05:30 PM</td><td>Sirmathura, Sirmathura, RAJASTHAN</td><td>Text Cell</td></tr>
+<tr><td>09 Nov,24 11:12 AM</td><td>JAI/HUB, Jaipur, RAJASTHAN</td><td>Text Cell</td></tr>
+<tr><td>12 Nov,24 05:01 PM</td><td>BLR/FC1, BANGALORE, KARNATAKA</td><td>Text Cell</td></tr>
+<tr><td>13 Nov,24 08:20 AM</td><td>BLR/FC1, BANGALORE, KARNATAKA</td><td>Shipment departed facility</td></tr>
+<tr><td>14 Nov,24 02:45 PM</td><td>HYD/HUB, HYDERABAD, TELANGANA</td><td>Arrived at hub</td></tr>
+<tr><td>16 Nov,24 06:40 PM</td><td>NAG/HUB, NAGPUR, MAHARASHTRA</td><td>In transit to next facility</td></tr>
+<tr><td>19 Nov,24 04:30 PM</td><td>NOI_Sector2, GREATER NOIDA, UTTAR PRADESH</td><td>Shipment received at local facility</td></tr>
+</tbody></table></div></div>
+</article>
+<aside class="aside">
+<section class="delivery"><p>Delivered on : Friday</p><strong>29 October</strong><div class="status">Status : <span><i></i>Delivered</span></div></section>
+<section class="order"><img src="assets/images/order-details-floral-panel.png" alt=""><div><p>Order Placed : 21 December 2024</p><p>Order ID : #7886878</p><p>Seller : IndusUno.com</p><p>Fulfilled By : Delhivery</p></div></section>
+<img class="floral-line" src="assets/images/floral-line-art-decoration.png" alt="">
+</aside>
+</div></section>
+<section class="about wrap"><h2>Know More About Us <span>@Souled Store</span></h2><div class="video-poster"><img src="assets/images/product-spotlight-video-poster.png" alt="Product Spotlight — Variety which can't be resisted"></div></section>
+<section class="products" id="products">
+<div class="product-grid">
+<article class="product"><img src="assets/images/product-card-01-skincare.png" alt="Featured product"><div><strong>Snickers Off-White<br>2024</strong><a href="#products">＋ Buy Now</a></div></article>
+<article class="product"><img src="assets/images/product-card-02-skincare.png" alt="Featured product"><div><strong>Snickers Off-White<br>2024</strong><a href="#products">＋ Buy Now</a></div></article>
+<article class="product"><img src="assets/images/product-card-03-skincare.png" alt="Featured product"><div><strong>Snickers Off-White<br>2024</strong><a href="#products">＋ Buy Now</a></div></article>
+<article class="product"><img src="assets/images/product-card-04-skincare.png" alt="Featured product"><div><strong>Snickers Off-White<br>2024</strong><a href="#products">＋ Buy Now</a></div></article>
+</div><a class="view-all" href="#products">View All</a>
+</section>
+</main>
+<footer class="footer"><span>All Rights Reserved.</span><nav aria-label="Social links"><a href="#" aria-label="Facebook">f</a><a href="#" aria-label="Instagram">◎</a><a href="#" aria-label="YouTube">▶</a></nav></footer>
+<script src="app.js"></script>
+</body></html>
