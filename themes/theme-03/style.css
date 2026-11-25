@@ -46,3 +46,80 @@
 
 .asset-status{position:fixed;right:14px;bottom:14px;z-index:30;transform:translateY(10px);opacity:0;pointer-events:none;padding:9px 13px;border-radius:7px;background:#1A1A1A;color:#fff;font:13px var(--inter);transition:opacity .2s,transform .2s}
 .asset-status.show{opacity:1;transform:translateY(0)}
+
+
+/* Responsive refinements and embedded map */
+.map-section{margin-top:24px;min-width:0}
+.map-heading{display:flex;align-items:center;justify-content:space-between;gap:12px;margin-bottom:12px}
+.map-heading h2{margin:0;font-size:17px;font-weight:500}
+.map-heading a{font:500 13px var(--inter);color:var(--red);display:inline-flex;align-items:center;gap:5px}
+.map-panel{height:320px;margin:0;border:1px solid var(--line);background:#f3f3f3}
+.map-panel iframe{display:block;width:100%;height:100%;border:0}
+.map-caption{font:12px var(--inter);color:#777;margin:8px 2px 0}
+@media(max-width:1100px){
+  .tracking-form-card h1{white-space:normal}
+  .tracking-results{grid-template-columns:minmax(0,1.7fr) minmax(240px,.9fr)}
+  .result-shell{padding:22px}
+  .delivery-date{font-size:clamp(38px,5vw,58px)}
+  .status-line{flex-wrap:wrap}
+  .shipment-timeline{padding-inline:8px}
+}
+@media(max-width:760px){
+  .site-header{padding-inline:16px}
+  .main-nav{gap:14px}
+  .offer-bar{padding:0 12px;text-align:center;line-height:1.35}
+  .tracking-results{width:calc(100% - 28px);grid-template-columns:minmax(0,1fr)}
+  .tracking-column{overflow:visible}
+  .result-shell{padding:14px;overflow:hidden}
+  .delivery-card{grid-template-columns:minmax(0,1fr) auto;column-gap:10px}
+  .delivery-date{font-size:clamp(34px,8vw,50px)}
+  .shipment-timeline{overflow:visible}
+  .history-panel{padding:12px}
+  .map-panel{height:260px}
+  .sidebar{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .order-info,.shopping-promo{min-width:0}
+  .products-section,.bottom-banner{width:calc(100% - 28px)}
+  .product-grid{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .product-card:nth-child(2){border-right:0}
+  .product-card:nth-child(1),.product-card:nth-child(2){border-bottom:1px solid #e7e7e7}
+  .site-footer{padding:20px 16px}
+}
+@media(max-width:520px){
+  .main-nav a:nth-child(2),.main-nav a:nth-child(3){display:none}
+  .main-nav{gap:12px;font-size:13px}
+  .offer-bar{font-size:12px;gap:8px}
+  .campaign-hero{height:350px}
+  .tracking-form-card{left:4%;width:92%;top:22px;padding:18px;gap:14px}
+  .tracking-modes{gap:10px 14px}
+  .mode{font-size:12px}
+  .tracking-input-row{grid-template-columns:minmax(0,1fr) 76px;gap:8px}
+  .tracking-input-row input{font-size:13px;padding-inline:10px}
+  .tracking-input-row button{font-size:14px;padding-inline:10px}
+  .tracking-results{width:calc(100% - 24px);margin-top:22px}
+  .result-shell{padding:10px}
+  .delivery-card{padding:14px 11px;column-gap:6px}
+  .delivery-topline h2{font-size:13px}
+  .delivery-topline>span{font-size:13px}
+  .delivery-date{font-size:clamp(29px,7.6vw,38px)}
+  .status-line{font-size:11px;gap:5px}
+  .status-chip{font-size:11px;padding:5px 7px;gap:5px}
+  .tracking-number{gap:8px}
+  .tracking-number strong{font-size:12px}
+  .tracking-number img{width:78px}
+  .latest-scan span,.latest-scan time{font-size:12px}
+  .shipment-timeline{min-width:570px;margin:26px 0;padding-inline:6px}
+  .history-inner{padding:8px}
+  .map-section{margin-top:18px}
+  .map-heading h2{font-size:15px}
+  .map-panel{height:220px}
+  .sidebar{grid-template-columns:1fr}
+  .order-info{min-height:unset}
+  .shopping-promo{min-height:175px}
+  .store-video{height:220px}
+  .section-heading h2{font-size:17px}
+  .product-card{padding:9px}
+  .product-card span{font-size:13px}
+  .bottom-banner{height:180px;margin:32px auto 42px}
+  .bottom-banner-copy h2{font-size:20px}
+  .footer-contact,.footer-social{align-items:flex-start}
+}
