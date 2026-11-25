@@ -1,0 +1,3622 @@
+.figma-62-6603 {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.figma-62-6604 {
+  position: absolute;
+  left: -5px;
+  top: 1879px;
+  width: 1445px;
+  height: 652px;
+  background-image: url("../assets/images/floral-footer-background.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.figma-62-6605 {
+  position: absolute;
+  left: 1431px;
+  top: 1797px;
+  width: 223px;
+  height: 199px;
+  background-color: rgba(67, 83, 255, 1);
+}
+
+.figma-62-6606 {
+  position: absolute;
+  left: 0px;
+  top: 130px;
+  width: 1456px;
+  height: 449px;
+}
+
+.figma-62-6607 {
+  position: absolute;
+  left: 32px;
+  top: 0px;
+  width: 1379px;
+  height: 449px;
+}
+
+.figma-62-6608 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1379px;
+  height: 449px;
+  border-radius: 34px;
+}
+
+.figma-62-6609 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1379px;
+  height: 449px;
+  background-image: url("../assets/images/floral-tracking-hero-background.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 34px;
+}
+
+.figma-62-6610 {
+  position: absolute;
+  left: 393px;
+  top: 89px;
+  width: 593px;
+  height: 236px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 48px 48px 48px 48px;
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(31, 193, 107, 0.10000000149011612);
+}
+
+.figma-62-6611 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 497px;
+  min-height: 140px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6612 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 497px;
+  min-height: 36px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6613 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 497px;
+  min-height: 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6614 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 375px;
+  min-height: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6615 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 84px;
+  min-height: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  padding: 0px 0px 0px 0px;
+  align-items: center;
+}
+
+.figma-I62-6615-98-15577 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 16px;
+  min-height: 16px;
+}
+
+.figma-I62-6615-98-15577-98-15544 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 16px;
+  height: 16px;
+}
+
+.figma-I62-6615-98-15577-98-15544-98-15607 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 0px 0px 0px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 1);
+  border-radius: 100px;
+  border: 1px solid rgba(210, 210, 210, 1);
+}
+
+.figma-I62-6615-98-15577-98-15544-98-15608 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 10px;
+  min-height: 10px;
+}
+
+.figma-I62-6615-98-15577-98-15544-98-15608-1520-58951 {
+  position: absolute;
+  left: 1.33544921875px;
+  top: 2.206298828125px;
+  width: 7.329166889190674px;
+  height: 5.587500095367432px;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.figma-I62-6615-98-15578 {
+  position: relative;
+  flex: 1 1 0;
+  width: 60px;
+  min-height: 14px;
+}
+
+.figma-I62-6615-98-15578-98-15720 {
+  position: absolute;
+  left: 0px;
+  top: -5px;
+  width: 60px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6615-98-15578-98-15720-98-15718 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 59px;
+  min-height: 24px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6616 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 93px;
+  min-height: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  padding: 0px 0px 0px 0px;
+  align-items: center;
+}
+
+.figma-I62-6616-98-15553 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 16px;
+  min-height: 16px;
+}
+
+.figma-I62-6616-98-15553-98-15536 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 16px;
+  height: 16px;
+}
+
+.figma-I62-6616-98-15553-98-15536-98-15607 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 0px 0px 0px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 100px;
+  border: 1px solid rgba(210, 210, 210, 1);
+}
+
+.figma-I62-6616-98-15553-98-15536-98-15608 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 10px;
+  min-height: 10px;
+}
+
+.figma-I62-6616-98-15553-98-15536-98-15608-1520-58951 {
+  position: absolute;
+  left: 1.33544921875px;
+  top: 2.206298828125px;
+  width: 7.329166889190674px;
+  height: 5.587500095367432px;
+  background-color: rgba(0, 0, 0, 1);
+}
+
+.figma-I62-6616-98-15554 {
+  position: relative;
+  flex: 1 1 0;
+  width: 69px;
+  min-height: 14px;
+}
+
+.figma-I62-6616-98-15554-98-15720 {
+  position: absolute;
+  left: 0px;
+  top: -5px;
+  width: 69px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6616-98-15554-98-15720-98-15718 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 65px;
+  min-height: 24px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6617 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 150px;
+  min-height: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  padding: 0px 0px 0px 0px;
+  align-items: center;
+}
+
+.figma-I62-6617-98-15553 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 16px;
+  min-height: 16px;
+}
+
+.figma-I62-6617-98-15553-98-15536 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 16px;
+  height: 16px;
+}
+
+.figma-I62-6617-98-15553-98-15536-98-15607 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 0px 0px 0px 0px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 100px;
+  border: 1px solid rgba(210, 210, 210, 1);
+}
+
+.figma-I62-6617-98-15553-98-15536-98-15608 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 10px;
+  min-height: 10px;
+}
+
+.figma-I62-6617-98-15553-98-15536-98-15608-1520-58951 {
+  position: absolute;
+  left: 1.33544921875px;
+  top: 2.206298828125px;
+  width: 7.329166889190674px;
+  height: 5.587500095367432px;
+  background-color: rgba(0, 0, 0, 1);
+}
+
+.figma-I62-6617-98-15554 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 96px;
+  min-height: 14px;
+}
+
+.figma-I62-6617-98-15554-98-15720 {
+  position: absolute;
+  left: 0px;
+  top: -5px;
+  width: 96px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6617-98-15554-98-15720-98-15718 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 122px;
+  min-height: 24px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6618 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 497px;
+  min-height: 48px;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  padding: 0px 0px 0px 0px;
+  align-items: center;
+}
+
+.figma-62-6619 {
+  position: relative;
+  flex: 1 1 0;
+  width: 370px;
+  min-height: 48px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6619-587-17059 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 240px;
+  min-height: 22px;
+  background-color: rgba(30, 30, 30, 1);
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+  text-align: left;
+  color: rgba(30, 30, 30, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6619-611-27554 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 240px;
+  min-height: 22px;
+  background-color: rgba(117, 117, 117, 1);
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+  text-align: left;
+  color: rgba(117, 117, 117, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6619-587-17060 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 370px;
+  min-height: 48px;
+  display: flex;
+  flex-direction: row;
+  padding: 12px 16px 12px 16px;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 8px;
+  border: 1px solid rgba(232, 232, 232, 1);
+}
+
+.figma-I62-6619-587-17061 {
+  position: relative;
+  flex: 1 1 0;
+  width: 338px;
+  min-height: 24px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6619-587-17063 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 37px;
+  min-height: 22px;
+  background-color: rgba(30, 30, 30, 1);
+  font-family: "Inter", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22.399999618530273px;
+  text-align: left;
+  color: rgba(30, 30, 30, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6620 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 103px;
+  min-height: 46px;
+  display: flex;
+  flex-direction: row;
+  padding: 8px 24px 8px 24px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+}
+
+.figma-I62-6620-6-3479 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 55px;
+  min-height: 30px;
+  background-color: rgba(255, 255, 255, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6621 {
+  position: absolute;
+  left: 1984px;
+  top: 2140px;
+  width: 223px;
+  height: 199px;
+  background-color: rgba(30, 55, 163, 1);
+}
+
+.figma-62-6622 {
+  position: absolute;
+  left: -139px;
+  top: 3101px;
+  width: 223px;
+  height: 199px;
+  background-color: rgba(255, 102, 0, 1);
+}
+
+.figma-62-6623 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1440px;
+  height: 64px;
+  display: flex;
+  flex-direction: row;
+  gap: 1296px;
+  padding: 16px 64px 16px 64px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.figma-62-6624 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 176px;
+  min-height: 32px;
+}
+
+.figma-62-6625 {
+  position: absolute;
+  left: 0.01953125px;
+  top: 0px;
+  width: 31.980798721313477px;
+  height: 32px;
+  background-color: rgba(26, 26, 26, 1);
+}
+
+.figma-62-6626 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 48px;
+  min-height: 24px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6627 {
+  position: absolute;
+  left: 1093px;
+  top: 1117px;
+  width: 49px;
+  height: 69px;
+}
+
+.figma-62-6628 {
+  position: absolute;
+  left: 64px;
+  top: 627px;
+  width: 1312px;
+  height: 1842.8428955078125px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6629 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 1311px;
+  min-height: 710.9282836914062px;
+  display: flex;
+  flex-direction: column;
+  gap: 19.27941131591797px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6630 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 1311px;
+  min-height: 49px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 32.13235092163086px;
+  font-weight: 600;
+  line-height: 48.19852828979492px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6631 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 1311px;
+  min-height: 643.6121215820312px;
+  display: flex;
+  flex-direction: row;
+  gap: 19.27941131591797px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6632 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 822.5882568359375px;
+  min-height: 643.6121215820312px;
+  display: flex;
+  flex-direction: column;
+  gap: 19.27941131591797px;
+  padding: 38.55882263183594px 38.55882263183594px 38.55882263183594px 38.55882263183594px;
+  background-color: rgba(249, 249, 249, 1);
+  border-radius: 12.852940559387207px;
+}
+
+.figma-62-6633 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 745.4705810546875px;
+  min-height: 315.86212158203125px;
+  display: flex;
+  flex-direction: row;
+  gap: 8.033087730407715px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6634 {
+  position: relative;
+  flex: 1 1 0;
+  width: 725.3878784179688px;
+  min-height: 315.86212158203125px;
+  display: flex;
+  flex-direction: column;
+  gap: 38.55882263183594px;
+  padding: 0px 0px 0px 0px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-62-6635 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 725.3878784179688px;
+  min-height: 61.05147171020508px;
+  display: flex;
+  flex-direction: column;
+  gap: 12.852940559387207px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6636 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 219.30331420898438px;
+  min-height: 48.19852828979492px;
+  background-image: url("../assets/images/blue-dart-courier-logo.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.figma-62-6637 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 725.3878784179688px;
+  min-height: 0px;
+  border: 0.8033087849617004px solid rgba(210, 210, 210, 1);
+}
+
+.figma-62-6638 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 725.3878784179688px;
+  min-height: 216.2518310546875px;
+  display: flex;
+  flex-direction: column;
+  gap: 12.852940559387207px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6639 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 725.3878784179688px;
+  min-height: 119.69300842285156px;
+  display: flex;
+  flex-direction: row;
+  gap: 48.19852828979492px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6640 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 81.13419342041016px;
+  min-height: 74.42646789550781px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.4264702796936035px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6641 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 81.13419342041016px;
+  min-height: 39px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 25.705881118774414px;
+  font-weight: 500;
+  line-height: 38.55882263183594px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6642 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 81.13419342041016px;
+  min-height: 29px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 19.27941131591797px;
+  font-weight: 400;
+  line-height: 28.919116973876953px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6643 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 51.411766052246094px;
+  min-height: 119.69300842285156px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.4264702796936035px;
+  padding: 0px 0px 0px 0px;
+  align-items: center;
+}
+
+.figma-62-6644 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 51.41176223754883px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.4264702796936035px;
+  padding: 0px 0px 0px 0px;
+  align-items: center;
+}
+
+.figma-I62-6644-48-1942 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 51.41176223754883px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  gap: 8.033087730407715px;
+  padding: 12.852940559387207px 12.852940559387207px 12.852940559387207px 12.852940559387207px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6644-48-1943 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 51.41176223754883px;
+  min-height: 51.41176223754883px;
+}
+
+.figma-I62-6644-48-1944 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 51.41176223754883px;
+  height: 51.41176223754883px;
+  border: 0.8033087849617004px solid rgba(232, 232, 232, 1);
+}
+
+.figma-I62-6644-48-1945 {
+  position: absolute;
+  left: 2.3359375px;
+  top: 2.3369140625px;
+  width: 46.73796844482422px;
+  height: 46.73796844482422px;
+  background-color: rgba(31, 193, 107, 1);
+}
+
+.figma-I62-6644-50-2000 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 25.705881118774414px;
+  min-height: 25.705881118774414px;
+}
+
+.figma-I62-6644-50-2001 {
+  position: absolute;
+  left: 3.7509765625px;
+  top: 5.987060546875px;
+  width: 18.743871688842773px;
+  height: 14.363160133361816px;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.figma-62-6645 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 7.229779243469238px;
+  min-height: 61.85477828979492px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.4264702796936035px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6646 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 7.229779243469238px;
+  min-height: 7.229779243469238px;
+  background-color: rgba(210, 210, 210, 1);
+}
+
+.figma-62-6647 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 7.229779243469238px;
+  min-height: 7.229779243469238px;
+  background-color: rgba(210, 210, 210, 1);
+}
+
+.figma-62-6648 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 7.229779243469238px;
+  min-height: 7.229779243469238px;
+  background-color: rgba(210, 210, 210, 1);
+}
+
+.figma-62-6649 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 7.229779243469238px;
+  min-height: 7.229779243469238px;
+  background-color: rgba(210, 210, 210, 1);
+}
+
+.figma-62-6650 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 7.229779243469238px;
+  min-height: 7.229779243469238px;
+  background-color: rgba(210, 210, 210, 1);
+}
+
+.figma-62-6651 {
+  position: relative;
+  flex: 1 1 0;
+  width: 496.4448547363281px;
+  min-height: 102.98529052734375px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.4264702796936035px;
+  padding: 0px 0px 38.55882263183594px 0px;
+  border: 0.8033087849617004px solid rgba(210, 210, 210, 1);
+}
+
+.figma-62-6652 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 191px;
+  min-height: 29px;
+  background-color: rgba(31, 193, 107, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 19.27941131591797px;
+  font-weight: 500;
+  line-height: 28.919116973876953px;
+  text-align: left;
+  color: rgba(31, 193, 107, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6653 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 218px;
+  min-height: 29px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 19.27941131591797px;
+  font-weight: 500;
+  line-height: 28.919116973876953px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6654 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 725.3878784179688px;
+  min-height: 83.70587921142578px;
+  display: flex;
+  flex-direction: row;
+  gap: 48.19852828979492px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6655 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 81.13419342041016px;
+  min-height: 74.42646789550781px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.4264702796936035px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6656 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 81.13419342041016px;
+  min-height: 39px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 25.705881118774414px;
+  font-weight: 500;
+  line-height: 38.55882263183594px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6657 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 81.13419342041016px;
+  min-height: 29px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 19.27941131591797px;
+  font-weight: 400;
+  line-height: 28.919116973876953px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6658 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 51.41176223754883px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.4264702796936035px;
+  padding: 0px 0px 0px 0px;
+  align-items: center;
+}
+
+.figma-I62-6658-48-1942 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 51.41176223754883px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  gap: 8.033087730407715px;
+  padding: 12.852940559387207px 12.852940559387207px 12.852940559387207px 12.852940559387207px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6658-48-1943 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 51.41176223754883px;
+  min-height: 51.41176223754883px;
+}
+
+.figma-I62-6658-48-1944 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 51.41176223754883px;
+  height: 51.41176223754883px;
+  border: 0.8033087849617004px solid rgba(232, 232, 232, 1);
+}
+
+.figma-I62-6658-48-1945 {
+  position: absolute;
+  left: 2.3359375px;
+  top: 2.3369140625px;
+  width: 46.73796844482422px;
+  height: 46.73796844482422px;
+  background-color: rgba(31, 193, 107, 1);
+}
+
+.figma-I62-6658-50-2000 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 25.705881118774414px;
+  min-height: 25.705881118774414px;
+}
+
+.figma-I62-6658-50-2001 {
+  position: absolute;
+  left: 3.7509765625px;
+  top: 5.9873046875px;
+  width: 18.743871688842773px;
+  height: 14.363160133361816px;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.figma-62-6659 {
+  position: relative;
+  flex: 1 1 0;
+  width: 496.4448547363281px;
+  min-height: 83.70587921142578px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.4264702796936035px;
+  padding: 0px 0px 19.27941131591797px 0px;
+}
+
+.figma-62-6660 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 195px;
+  min-height: 29px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 19.27941131591797px;
+  font-weight: 500;
+  line-height: 28.919116973876953px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6661 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 136.7058868408203px;
+  min-height: 29px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.4264702796936035px;
+  padding: 0px 0px 0px 0px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6661-46-763 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 111px;
+  min-height: 29px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 19.27941131591797px;
+  font-weight: 500;
+  line-height: 28.919116973876953px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6661-46-764 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 19.27941131591797px;
+  min-height: 19.27941131591797px;
+}
+
+.figma-I62-6661-46-764-19-29584 {
+  position: absolute;
+  left: 0.00146484375px;
+  top: 0px;
+  width: 19.27941131591797px;
+  height: 19.27941131591797px;
+}
+
+.figma-I62-6661-46-764-19-29585 {
+  position: absolute;
+  left: 1.6083984375px;
+  top: 1.6064453125px;
+  width: 16.06617546081543px;
+  height: 16.06617546081543px;
+  background-color: rgba(26, 26, 26, 1);
+}
+
+.figma-62-6662 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.04963207244873px;
+  min-height: 315.86212158203125px;
+  background-color: rgba(232, 232, 232, 1);
+  border-radius: 80.33087921142578px;
+}
+
+.figma-62-6663 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 12.04963207244873px;
+  height: 98.8069839477539px;
+  background-color: rgba(164, 164, 164, 1);
+  border-radius: 80.33087921142578px;
+}
+
+.figma-62-6664 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 725.3878784179688px;
+  min-height: 231.3529510498047px;
+  display: flex;
+  flex-direction: column;
+  gap: 8.033087730407715px;
+  padding: 19.27941131591797px 19.27941131591797px 19.27941131591797px 19.27941131591797px;
+  border-radius: 6.4264702796936035px;
+}
+
+.figma-62-6665 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 686.8290405273438px;
+  min-height: 192.79412841796875px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0px 0px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 3.2132351398468018px;
+  border: 0.8033087849617004px solid rgba(232, 232, 232, 1);
+}
+
+.figma-62-6666 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 686.8290405273438px;
+  min-height: 38.55882263183594px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.figma-62-6667 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 182.35108947753906px;
+  min-height: 38.55882263183594px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6667-75-3171 {
+  position: relative;
+  flex: 1 1 0;
+  width: 182.35108947753906px;
+  min-height: 38.55882263183594px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.4264702796936035px;
+  padding: 0px 9.639705657958984px 0px 9.639705657958984px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6667-75-3171-75-2376 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6667-75-3171-75-2376-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-I62-6667-75-3171-75-2373 {
+  position: relative;
+  flex: 1 1 0;
+  width: 163.07168579101562px;
+  min-height: 25px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6667-75-3171-75-2368 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 163.07168579101562px;
+  min-height: 25px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12.852940559387207px;
+  font-weight: 500;
+  line-height: 24.09926414489746px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6667-75-3171-75-2370 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 109.24999237060547px;
+  min-height: 16px;
+  background-color: rgba(39, 40, 51, 1);
+  opacity: 0.699999988079071;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 10.443014144897461px;
+  font-weight: 400;
+  line-height: 15.664521217346191px;
+  text-align: left;
+  color: rgba(39, 40, 51, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6667-75-3171-76-1833 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6667-75-3171-76-1833-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-62-6668 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 274.7315979003906px;
+  min-height: 38.55882263183594px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6668-75-3171 {
+  position: relative;
+  flex: 1 1 0;
+  width: 274.7315979003906px;
+  min-height: 38.55882263183594px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.4264702796936035px;
+  padding: 0px 9.639705657958984px 0px 9.639705657958984px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6668-75-3171-75-2376 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6668-75-3171-75-2376-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-I62-6668-75-3171-75-2373 {
+  position: relative;
+  flex: 1 1 0;
+  width: 255.45217895507812px;
+  min-height: 25px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6668-75-3171-75-2368 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 255.45217895507812px;
+  min-height: 25px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12.852940559387207px;
+  font-weight: 500;
+  line-height: 24.09926414489746px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6668-75-3171-75-2370 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 109.24999237060547px;
+  min-height: 16px;
+  background-color: rgba(39, 40, 51, 1);
+  opacity: 0.699999988079071;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 10.443014144897461px;
+  font-weight: 400;
+  line-height: 15.664521217346191px;
+  text-align: left;
+  color: rgba(39, 40, 51, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6668-75-3171-76-1833 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6668-75-3171-76-1833-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-62-6669 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 229.74630737304688px;
+  min-height: 38.55882263183594px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6669-75-3171 {
+  position: relative;
+  flex: 1 1 0;
+  width: 229.74630737304688px;
+  min-height: 38.55882263183594px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.4264702796936035px;
+  padding: 0px 9.639705657958984px 0px 9.639705657958984px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6669-75-3171-75-2376 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6669-75-3171-75-2376-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-I62-6669-75-3171-75-2373 {
+  position: relative;
+  flex: 1 1 0;
+  width: 210.46688842773438px;
+  min-height: 25px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6669-75-3171-75-2368 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 210.46688842773438px;
+  min-height: 25px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12.852940559387207px;
+  font-weight: 500;
+  line-height: 24.09926414489746px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6669-75-3171-75-2370 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 109.24999237060547px;
+  min-height: 16px;
+  background-color: rgba(39, 40, 51, 1);
+  opacity: 0.699999988079071;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 10.443014144897461px;
+  font-weight: 400;
+  line-height: 15.664521217346191px;
+  text-align: left;
+  color: rgba(39, 40, 51, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6669-75-3171-76-1833 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6669-75-3171-76-1833-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-62-6670 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 686.8290405273438px;
+  min-height: 51.411766052246094px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6671 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 182.35108947753906px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6671-75-2399 {
+  position: relative;
+  flex: 1 1 0;
+  width: 182.35108947753906px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.4264702796936035px;
+  padding: 0px 9.639705657958984px 0px 9.639705657958984px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6671-75-2399-75-2376 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6671-75-2399-75-2376-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-I62-6671-75-2399-75-2373 {
+  position: relative;
+  flex: 1 1 0;
+  width: 163.07168579101562px;
+  min-height: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6671-75-2399-75-2368 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 163.07168579101562px;
+  min-height: 20px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12.852940559387207px;
+  font-weight: 400;
+  line-height: 19.27941131591797px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6671-75-2399-75-2370 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 109.24999237060547px;
+  min-height: 16px;
+  background-color: rgba(39, 40, 51, 1);
+  opacity: 0.699999988079071;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 10.443014144897461px;
+  font-weight: 400;
+  line-height: 15.664521217346191px;
+  text-align: left;
+  color: rgba(39, 40, 51, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6671-75-2399-76-1833 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6671-75-2399-76-1833-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-62-6672 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 274.7315979003906px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6672-75-2399 {
+  position: relative;
+  flex: 1 1 0;
+  width: 274.7315979003906px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.4264702796936035px;
+  padding: 0px 9.639705657958984px 0px 9.639705657958984px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6672-75-2399-75-2376 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6672-75-2399-75-2376-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-I62-6672-75-2399-75-2373 {
+  position: relative;
+  flex: 1 1 0;
+  width: 255.45217895507812px;
+  min-height: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6672-75-2399-75-2368 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 255.45217895507812px;
+  min-height: 20px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12.852940559387207px;
+  font-weight: 400;
+  line-height: 19.27941131591797px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6672-75-2399-75-2370 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 109.24999237060547px;
+  min-height: 16px;
+  background-color: rgba(39, 40, 51, 1);
+  opacity: 0.699999988079071;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 10.443014144897461px;
+  font-weight: 400;
+  line-height: 15.664521217346191px;
+  text-align: left;
+  color: rgba(39, 40, 51, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6672-75-2399-76-1833 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6672-75-2399-76-1833-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-62-6673 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 229.74630737304688px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6673-75-2399 {
+  position: relative;
+  flex: 1 1 0;
+  width: 229.74630737304688px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.4264702796936035px;
+  padding: 0px 9.639705657958984px 0px 9.639705657958984px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6673-75-2399-75-2376 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6673-75-2399-75-2376-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-I62-6673-75-2399-75-2373 {
+  position: relative;
+  flex: 1 1 0;
+  width: 210.46688842773438px;
+  min-height: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6673-75-2399-75-2368 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 210.46688842773438px;
+  min-height: 20px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12.852940559387207px;
+  font-weight: 400;
+  line-height: 19.27941131591797px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6673-75-2399-75-2370 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 109.24999237060547px;
+  min-height: 16px;
+  background-color: rgba(39, 40, 51, 1);
+  opacity: 0.699999988079071;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 10.443014144897461px;
+  font-weight: 400;
+  line-height: 15.664521217346191px;
+  text-align: left;
+  color: rgba(39, 40, 51, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6673-75-2399-76-1833 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6673-75-2399-76-1833-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-62-6674 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 686.8290405273438px;
+  min-height: 51.411766052246094px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6675 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 182.35108947753906px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6675-75-2399 {
+  position: relative;
+  flex: 1 1 0;
+  width: 182.35108947753906px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.4264702796936035px;
+  padding: 0px 9.639705657958984px 0px 9.639705657958984px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6675-75-2399-75-2376 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6675-75-2399-75-2376-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-I62-6675-75-2399-75-2373 {
+  position: relative;
+  flex: 1 1 0;
+  width: 163.07168579101562px;
+  min-height: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6675-75-2399-75-2368 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 163.07168579101562px;
+  min-height: 20px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12.852940559387207px;
+  font-weight: 400;
+  line-height: 19.27941131591797px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6675-75-2399-75-2370 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 109.24999237060547px;
+  min-height: 16px;
+  background-color: rgba(39, 40, 51, 1);
+  opacity: 0.699999988079071;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 10.443014144897461px;
+  font-weight: 400;
+  line-height: 15.664521217346191px;
+  text-align: left;
+  color: rgba(39, 40, 51, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6675-75-2399-76-1833 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6675-75-2399-76-1833-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-62-6676 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 274.7315979003906px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6676-75-2399 {
+  position: relative;
+  flex: 1 1 0;
+  width: 274.7315979003906px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.4264702796936035px;
+  padding: 0px 9.639705657958984px 0px 9.639705657958984px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6676-75-2399-75-2376 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6676-75-2399-75-2376-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-I62-6676-75-2399-75-2373 {
+  position: relative;
+  flex: 1 1 0;
+  width: 255.45217895507812px;
+  min-height: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6676-75-2399-75-2368 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 255.45217895507812px;
+  min-height: 20px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12.852940559387207px;
+  font-weight: 400;
+  line-height: 19.27941131591797px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6676-75-2399-75-2370 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 109.24999237060547px;
+  min-height: 16px;
+  background-color: rgba(39, 40, 51, 1);
+  opacity: 0.699999988079071;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 10.443014144897461px;
+  font-weight: 400;
+  line-height: 15.664521217346191px;
+  text-align: left;
+  color: rgba(39, 40, 51, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6676-75-2399-76-1833 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6676-75-2399-76-1833-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-62-6677 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 229.74630737304688px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6677-75-2399 {
+  position: relative;
+  flex: 1 1 0;
+  width: 229.74630737304688px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.4264702796936035px;
+  padding: 0px 9.639705657958984px 0px 9.639705657958984px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6677-75-2399-75-2376 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6677-75-2399-75-2376-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-I62-6677-75-2399-75-2373 {
+  position: relative;
+  flex: 1 1 0;
+  width: 210.46688842773438px;
+  min-height: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6677-75-2399-75-2368 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 210.46688842773438px;
+  min-height: 20px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12.852940559387207px;
+  font-weight: 400;
+  line-height: 19.27941131591797px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6677-75-2399-75-2370 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 109.24999237060547px;
+  min-height: 16px;
+  background-color: rgba(39, 40, 51, 1);
+  opacity: 0.699999988079071;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 10.443014144897461px;
+  font-weight: 400;
+  line-height: 15.664521217346191px;
+  text-align: left;
+  color: rgba(39, 40, 51, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6677-75-2399-76-1833 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6677-75-2399-76-1833-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-62-6678 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 686.8290405273438px;
+  min-height: 51.411766052246094px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6679 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 182.35108947753906px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6679-75-2399 {
+  position: relative;
+  flex: 1 1 0;
+  width: 182.35108947753906px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.4264702796936035px;
+  padding: 0px 9.639705657958984px 0px 9.639705657958984px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6679-75-2399-75-2376 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6679-75-2399-75-2376-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-I62-6679-75-2399-75-2373 {
+  position: relative;
+  flex: 1 1 0;
+  width: 163.07168579101562px;
+  min-height: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6679-75-2399-75-2368 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 163.07168579101562px;
+  min-height: 20px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12.852940559387207px;
+  font-weight: 400;
+  line-height: 19.27941131591797px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6679-75-2399-75-2370 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 109.24999237060547px;
+  min-height: 16px;
+  background-color: rgba(39, 40, 51, 1);
+  opacity: 0.699999988079071;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 10.443014144897461px;
+  font-weight: 400;
+  line-height: 15.664521217346191px;
+  text-align: left;
+  color: rgba(39, 40, 51, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6679-75-2399-76-1833 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6679-75-2399-76-1833-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-62-6680 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 274.7315979003906px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6680-75-2399 {
+  position: relative;
+  flex: 1 1 0;
+  width: 274.7315979003906px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.4264702796936035px;
+  padding: 0px 9.639705657958984px 0px 9.639705657958984px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6680-75-2399-75-2376 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6680-75-2399-75-2376-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-I62-6680-75-2399-75-2373 {
+  position: relative;
+  flex: 1 1 0;
+  width: 255.45217895507812px;
+  min-height: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6680-75-2399-75-2368 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 255.45217895507812px;
+  min-height: 20px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12.852940559387207px;
+  font-weight: 400;
+  line-height: 19.27941131591797px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6680-75-2399-75-2370 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 109.24999237060547px;
+  min-height: 16px;
+  background-color: rgba(39, 40, 51, 1);
+  opacity: 0.699999988079071;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 10.443014144897461px;
+  font-weight: 400;
+  line-height: 15.664521217346191px;
+  text-align: left;
+  color: rgba(39, 40, 51, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6680-75-2399-76-1833 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6680-75-2399-76-1833-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-62-6681 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 229.74630737304688px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6681-75-2399 {
+  position: relative;
+  flex: 1 1 0;
+  width: 229.74630737304688px;
+  min-height: 51.41176223754883px;
+  display: flex;
+  flex-direction: row;
+  gap: 6.4264702796936035px;
+  padding: 0px 9.639705657958984px 0px 9.639705657958984px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-I62-6681-75-2399-75-2376 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6681-75-2399-75-2376-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-I62-6681-75-2399-75-2373 {
+  position: relative;
+  flex: 1 1 0;
+  width: 210.46688842773438px;
+  min-height: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6681-75-2399-75-2368 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 210.46688842773438px;
+  min-height: 20px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12.852940559387207px;
+  font-weight: 400;
+  line-height: 19.27941131591797px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6681-75-2399-75-2370 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 109.24999237060547px;
+  min-height: 16px;
+  background-color: rgba(39, 40, 51, 1);
+  opacity: 0.699999988079071;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 10.443014144897461px;
+  font-weight: 400;
+  line-height: 15.664521217346191px;
+  text-align: left;
+  color: rgba(39, 40, 51, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6681-75-2399-76-1833 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 12.852940559387207px;
+  min-height: 12.852940559387207px;
+}
+
+.figma-I62-6681-75-2399-76-1833-23-733 {
+  position: absolute;
+  left: 4.81982421875px;
+  top: 0px;
+  width: 3.2132351398468018px;
+  height: 12.852940559387207px;
+  background-color: rgba(107, 108, 126, 1);
+}
+
+.figma-62-6682 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 469.1323547363281px;
+  min-height: 521.63232421875px;
+  display: flex;
+  flex-direction: column;
+  gap: 19.27941131591797px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6683 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 469.1323547363281px;
+  min-height: 270.67645263671875px;
+  display: flex;
+  flex-direction: column;
+  gap: 8.033087730407715px;
+  padding: 38.55882263183594px 38.55882263183594px 38.55882263183594px 38.55882263183594px;
+  background-color: rgba(249, 249, 249, 1);
+  border-radius: 12.852940559387207px;
+}
+
+.figma-62-6684 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 372.73529052734375px;
+  min-height: 193.55882263183594px;
+  display: flex;
+  flex-direction: column;
+  gap: 12.852940559387207px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6685 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 372.73529052734375px;
+  min-height: 29px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 19.27941131591797px;
+  font-weight: 400;
+  line-height: 28.919116973876953px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6686 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 372.73529052734375px;
+  min-height: 97px;
+  background-color: rgba(0, 0, 0, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 64.26470184326172px;
+  font-weight: 700;
+  line-height: 96.39705657958984px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6687 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 372.73529052734375px;
+  min-height: 41.85293960571289px;
+  display: flex;
+  flex-direction: row;
+  gap: 12.852940559387207px;
+  padding: 0px 0px 0px 0px;
+  align-items: center;
+}
+
+.figma-62-6688 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 71px;
+  min-height: 29px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 19.27941131591797px;
+  font-weight: 400;
+  line-height: 28.919116973876953px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6689 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 150.44485473632812px;
+  min-height: 41.85293960571289px;
+  display: flex;
+  flex-direction: row;
+  gap: 12.852940559387207px;
+  padding: 6.4264702796936035px 19.27941131591797px 6.4264702796936035px 19.27941131591797px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(31, 193, 107, 0.10000000149011612);
+  border-radius: 80.33087921142578px;
+}
+
+.figma-62-6690 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 8.033088684082031px;
+  min-height: 8.033088684082031px;
+  background-color: rgba(31, 193, 107, 1);
+}
+
+.figma-62-6691 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 91px;
+  min-height: 29px;
+  background-color: rgba(31, 193, 107, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 19.27941131591797px;
+  font-weight: 400;
+  line-height: 28.919116973876953px;
+  text-align: left;
+  color: rgba(31, 193, 107, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6692 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 469.1323547363281px;
+  min-height: 231.6764678955078px;
+  display: flex;
+  flex-direction: column;
+  gap: 12.852940559387207px;
+  padding: 38.55882263183594px 38.55882263183594px 38.55882263183594px 38.55882263183594px;
+  background-image: url("../assets/images/order-details-floral-panel.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 12.852940559387207px;
+}
+
+.figma-62-6693 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 317px;
+  min-height: 29px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 19.27941131591797px;
+  font-weight: 500;
+  line-height: 28.919116973876953px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6694 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 192px;
+  min-height: 29px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 19.27941131591797px;
+  font-weight: 500;
+  line-height: 28.919116973876953px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6695 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 206px;
+  min-height: 29px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 19.27941131591797px;
+  font-weight: 500;
+  line-height: 28.919116973876953px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6696 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 211px;
+  min-height: 29px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 19.27941131591797px;
+  font-weight: 500;
+  line-height: 28.919116973876953px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6697 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 1312px;
+  min-height: 557px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  padding: 0px 0px 0px 0px;
+  align-items: center;
+}
+
+.figma-62-6698 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 1312px;
+  min-height: 90px;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  padding: 0px 0px 0px 0px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-62-6699 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 505px;
+  min-height: 90px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 90px;
+  text-align: center;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6700 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 361px;
+  min-height: 90px;
+  background-image: url("../assets/images/souled-store-gradient-heading.png");
+  background-size: cover;
+  background-position: center;
+  font-family: "Poppins", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 90px;
+  text-align: center;
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6701 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 1312px;
+  min-height: 435px;
+  background-image: url("../assets/images/product-spotlight-video-poster.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 16px;
+}
+
+.figma-I62-6701-1308-168166 {
+  position: absolute;
+  left: 0px;
+  top: 188.5px;
+  width: 1312px;
+  height: 246.5px;
+}
+
+.figma-I62-6701-1308-168167 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1312px;
+  height: 435px;
+  background-color: rgba(26, 26, 26, 0.10000000149011612);
+}
+
+.figma-I62-6701-1308-168168 {
+  position: absolute;
+  left: 25.5px;
+  top: 375.5px;
+  width: 1244px;
+  height: 34px;
+  border-radius: 17px;
+}
+
+.figma-I62-6701-1308-168168-1113-1536 {
+  position: absolute;
+  left: 59.5px;
+  top: 8.50048828125px;
+  width: 1184.5px;
+  height: 17px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 8.5px;
+  opacity: 0.30000001192092896;
+}
+
+.figma-I62-6701-1308-168168-1113-1495 {
+  position: absolute;
+  left: 59.5px;
+  top: 8.50048828125px;
+  width: 1252.5px;
+  height: 17px;
+}
+
+.figma-I62-6701-1308-168168-1113-1496 {
+  position: absolute;
+  left: 0px;
+  top: 0.00048828125px;
+  width: 188.3458709716797px;
+  height: 17px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 8.5px;
+  opacity: 0.5;
+}
+
+.figma-I62-6701-1308-168168-1113-1547 {
+  position: absolute;
+  left: 59.5px;
+  top: 8.50048828125px;
+  width: 17px;
+  height: 17px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 8.5px;
+}
+
+.figma-I62-6701-1308-168168-1113-1889 {
+  position: absolute;
+  left: 0px;
+  top: 0.00048828125px;
+  width: 34px;
+  height: 34px;
+}
+
+.figma-I62-6701-1308-168168-1113-1863 {
+  position: absolute;
+  left: 4.67333984375px;
+  top: 2.6796875px;
+  width: 24.53765869140625px;
+  height: 28.641695022583008px;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.figma-I62-6701-1308-168169 {
+  position: absolute;
+  left: 68px;
+  top: 124px;
+  width: 1059px;
+  height: 154px;
+  display: flex;
+  flex-direction: column;
+  gap: 8.5px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6701-1308-168170 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 291.5px;
+  min-height: 51.5px;
+  display: flex;
+  flex-direction: row;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6701-1308-168170-1046-4166 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 291.5px;
+  min-height: 51.5px;
+  display: flex;
+  flex-direction: row;
+  padding: 4.25px 21.25px 4.25px 21.25px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.30000001192092896);
+  border-radius: 34px;
+}
+
+.figma-I62-6701-1308-168170-1046-4166-1046-26 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 249px;
+  min-height: 43px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Inter", sans-serif;
+  font-size: 29.75px;
+  font-weight: 500;
+  line-height: 42.5px;
+  text-align: center;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6701-1308-168171 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 1059px;
+  min-height: 94px;
+  background-color: rgba(255, 255, 255, 1);
+  font-family: "Inter", sans-serif;
+  font-size: 76.5px;
+  font-weight: 500;
+  line-height: 93.5px;
+  letter-spacing: -1.53px;
+  text-align: left;
+  color: rgba(255, 255, 255, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6701-1308-168172 {
+  position: absolute;
+  left: 571px;
+  top: 133px;
+  width: 170px;
+  height: 170px;
+}
+
+.figma-I62-6701-1308-168172-1377-12743 {
+  position: absolute;
+  left: -0.00341796875px;
+  top: 0.00048828125px;
+  width: 170.0009765625px;
+  height: 170px;
+  background-color: rgba(255, 255, 255, 0.30000001192092896);
+}
+
+.figma-I62-6701-1308-168172-1377-12744 {
+  position: absolute;
+  left: 0.00048828125px;
+  top: 0px;
+  width: 170px;
+  height: 170px;
+  background-color: rgba(0, 0, 0, 1);
+  opacity: 0.05000000074505806;
+}
+
+.figma-I62-6701-1308-168172-1377-12745 {
+  position: absolute;
+  left: 63.75048828125px;
+  top: 53.125px;
+  width: 58.4375px;
+  height: 63.75px;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.figma-62-6702 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 1312px;
+  min-height: 446.9146423339844px;
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  padding: 0px 0px 0px 0px;
+  align-items: center;
+}
+
+.figma-62-6703 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 976px;
+  min-height: 320.9146423339844px;
+  display: flex;
+  flex-direction: row;
+  gap: 23.80487823486328px;
+  padding: 0px 0px 0px 0px;
+  justify-content: center;
+  align-items: center;
+}
+
+.figma-62-6704 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 309.4634094238281px;
+  min-height: 320.9146423339844px;
+  display: flex;
+  flex-direction: column;
+  gap: 17.85365867614746px;
+  padding: 17.85365867614746px 17.85365867614746px 17.85365867614746px 17.85365867614746px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 18.59756088256836px;
+}
+
+.figma-I62-6704-6-3178 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 273.756103515625px;
+  min-height: 231.35365295410156px;
+  border-radius: 7.439024448394775px;
+}
+
+.figma-I62-6704-6-3179 {
+  position: absolute;
+  left: -27.5263671875px;
+  top: -23.8046875px;
+  width: 329.04876708984375px;
+  height: 278.6097412109375px;
+  background-image: url("../assets/images/product-card-01-skincare.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 7.439024448394775px;
+}
+
+.figma-I62-6704-6-3180 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 273.756103515625px;
+  min-height: 36px;
+  display: flex;
+  flex-direction: row;
+  gap: 21.573171615600586px;
+  padding: 0px 0px 0px 0px;
+  justify-content: space-between;
+}
+
+.figma-I62-6704-6-3181 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 115px;
+  min-height: 36px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.695121765136719px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6704-6-3182 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 115px;
+  min-height: 36px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 17.85365867614746px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6704-6-3183 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 93.96341705322266px;
+  min-height: 29.878047943115234px;
+  display: flex;
+  flex-direction: row;
+  gap: 5.95121955871582px;
+  padding: 7.439024448394775px 7.439024448394775px 7.439024448394775px 7.439024448394775px;
+  border-radius: 18.59756088256836px;
+}
+
+.figma-I62-6704-6-3184 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 14.134146690368652px;
+  min-height: 15px;
+  background-color: rgba(255, 255, 255, 1);
+  font-family: "Montserrat", sans-serif;
+  font-size: 20.829269409179688px;
+  font-weight: 500;
+  line-height: 14.87804889678955px;
+  letter-spacing: 0.14878049492835999px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6704-6-3185 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 59px;
+  min-height: 15px;
+  background-color: rgba(255, 255, 255, 1);
+  font-family: "Montserrat", sans-serif;
+  font-size: 12.646341323852539px;
+  font-weight: 500;
+  line-height: 14.87804889678955px;
+  letter-spacing: 0.14878049492835999px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6705 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 309.4634094238281px;
+  min-height: 320.9146423339844px;
+  display: flex;
+  flex-direction: column;
+  gap: 17.85365867614746px;
+  padding: 17.85365867614746px 17.85365867614746px 17.85365867614746px 17.85365867614746px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 18.59756088256836px;
+}
+
+.figma-I62-6705-6-3178 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 273.756103515625px;
+  min-height: 231.35365295410156px;
+  border-radius: 7.439024448394775px;
+}
+
+.figma-I62-6705-6-3179 {
+  position: absolute;
+  left: -27.5263671875px;
+  top: -23.8046875px;
+  width: 329.04876708984375px;
+  height: 278.6097412109375px;
+  background-image: url("../assets/images/product-card-02-skincare.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 7.439024448394775px;
+}
+
+.figma-I62-6705-6-3180 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 273.756103515625px;
+  min-height: 36px;
+  display: flex;
+  flex-direction: row;
+  gap: 21.573171615600586px;
+  padding: 0px 0px 0px 0px;
+  justify-content: space-between;
+}
+
+.figma-I62-6705-6-3181 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 115px;
+  min-height: 36px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.695121765136719px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6705-6-3182 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 115px;
+  min-height: 36px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 17.85365867614746px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6705-6-3183 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 93.96341705322266px;
+  min-height: 29.878047943115234px;
+  display: flex;
+  flex-direction: row;
+  gap: 5.95121955871582px;
+  padding: 7.439024448394775px 7.439024448394775px 7.439024448394775px 7.439024448394775px;
+  border-radius: 18.59756088256836px;
+}
+
+.figma-I62-6705-6-3184 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 14.134146690368652px;
+  min-height: 15px;
+  background-color: rgba(255, 255, 255, 1);
+  font-family: "Montserrat", sans-serif;
+  font-size: 20.829269409179688px;
+  font-weight: 500;
+  line-height: 14.87804889678955px;
+  letter-spacing: 0.14878049492835999px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6705-6-3185 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 59px;
+  min-height: 15px;
+  background-color: rgba(255, 255, 255, 1);
+  font-family: "Montserrat", sans-serif;
+  font-size: 12.646341323852539px;
+  font-weight: 500;
+  line-height: 14.87804889678955px;
+  letter-spacing: 0.14878049492835999px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6706 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 309.4634094238281px;
+  min-height: 320.9146423339844px;
+  display: flex;
+  flex-direction: column;
+  gap: 17.85365867614746px;
+  padding: 17.85365867614746px 17.85365867614746px 17.85365867614746px 17.85365867614746px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 18.59756088256836px;
+}
+
+.figma-I62-6706-6-3178 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 273.756103515625px;
+  min-height: 231.35365295410156px;
+  border-radius: 7.439024448394775px;
+}
+
+.figma-I62-6706-6-3179 {
+  position: absolute;
+  left: -27.5263671875px;
+  top: -23.8046875px;
+  width: 329.04876708984375px;
+  height: 278.6097412109375px;
+  background-image: url("../assets/images/product-card-03-skincare.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 7.439024448394775px;
+}
+
+.figma-I62-6706-6-3180 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 273.756103515625px;
+  min-height: 36px;
+  display: flex;
+  flex-direction: row;
+  gap: 21.573171615600586px;
+  padding: 0px 0px 0px 0px;
+  justify-content: space-between;
+}
+
+.figma-I62-6706-6-3181 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 115px;
+  min-height: 36px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.695121765136719px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6706-6-3182 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 115px;
+  min-height: 36px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 17.85365867614746px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6706-6-3183 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 93.96341705322266px;
+  min-height: 29.878047943115234px;
+  display: flex;
+  flex-direction: row;
+  gap: 5.95121955871582px;
+  padding: 7.439024448394775px 7.439024448394775px 7.439024448394775px 7.439024448394775px;
+  border-radius: 18.59756088256836px;
+}
+
+.figma-I62-6706-6-3184 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 14.134146690368652px;
+  min-height: 15px;
+  background-color: rgba(255, 255, 255, 1);
+  font-family: "Montserrat", sans-serif;
+  font-size: 20.829269409179688px;
+  font-weight: 500;
+  line-height: 14.87804889678955px;
+  letter-spacing: 0.14878049492835999px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6706-6-3185 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 59px;
+  min-height: 15px;
+  background-color: rgba(255, 255, 255, 1);
+  font-family: "Montserrat", sans-serif;
+  font-size: 12.646341323852539px;
+  font-weight: 500;
+  line-height: 14.87804889678955px;
+  letter-spacing: 0.14878049492835999px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6707 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 309.4634094238281px;
+  min-height: 320.9146423339844px;
+  display: flex;
+  flex-direction: column;
+  gap: 17.85365867614746px;
+  padding: 17.85365867614746px 17.85365867614746px 17.85365867614746px 17.85365867614746px;
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 18.59756088256836px;
+}
+
+.figma-I62-6707-6-3178 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 273.756103515625px;
+  min-height: 231.35365295410156px;
+  border-radius: 7.439024448394775px;
+}
+
+.figma-I62-6707-6-3179 {
+  position: absolute;
+  left: -27.5263671875px;
+  top: -23.8046875px;
+  width: 329.04876708984375px;
+  height: 278.6097412109375px;
+  background-image: url("../assets/images/product-card-04-skincare.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 7.439024448394775px;
+}
+
+.figma-I62-6707-6-3180 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 273.756103515625px;
+  min-height: 36px;
+  display: flex;
+  flex-direction: row;
+  gap: 21.573171615600586px;
+  padding: 0px 0px 0px 0px;
+  justify-content: space-between;
+}
+
+.figma-I62-6707-6-3181 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 115px;
+  min-height: 36px;
+  display: flex;
+  flex-direction: column;
+  gap: 6.695121765136719px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-I62-6707-6-3182 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 115px;
+  min-height: 36px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 17.85365867614746px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6707-6-3183 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 93.96341705322266px;
+  min-height: 29.878047943115234px;
+  display: flex;
+  flex-direction: row;
+  gap: 5.95121955871582px;
+  padding: 7.439024448394775px 7.439024448394775px 7.439024448394775px 7.439024448394775px;
+  border-radius: 18.59756088256836px;
+}
+
+.figma-I62-6707-6-3184 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 14.134146690368652px;
+  min-height: 15px;
+  background-color: rgba(255, 255, 255, 1);
+  font-family: "Montserrat", sans-serif;
+  font-size: 20.829269409179688px;
+  font-weight: 500;
+  line-height: 14.87804889678955px;
+  letter-spacing: 0.14878049492835999px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-I62-6707-6-3185 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 59px;
+  min-height: 15px;
+  background-color: rgba(255, 255, 255, 1);
+  font-family: "Montserrat", sans-serif;
+  font-size: 12.646341323852539px;
+  font-weight: 500;
+  line-height: 14.87804889678955px;
+  letter-spacing: 0.14878049492835999px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6708 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 175px;
+  min-height: 62px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  padding: 0px 0px 0px 0px;
+}
+
+.figma-62-6709 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 175px;
+  min-height: 62px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  padding: 16px 48px 16px 48px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 100px;
+  border: 1px solid rgba(0, 0, 0, 1);
+}
+
+.figma-62-6710 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 79px;
+  min-height: 30px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6711 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 431px;
+  min-height: 186px;
+  background-image: url("../assets/images/floral-line-art-decoration.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.figma-62-6712 {
+  position: absolute;
+  left: 0px;
+  top: 62px;
+  width: 1440px;
+  height: 68px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 16px 625px 16px 625px;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(249, 249, 249, 1);
+}
+
+.figma-62-6713 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 402px;
+  min-height: 36px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  padding: 0px 0px 0px 0px;
+  align-items: center;
+}
+
+.figma-62-6714 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 362px;
+  min-height: 36px;
+  background-color: rgba(26, 26, 26, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(26, 26, 26, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6715 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 24px;
+  min-height: 24px;
+  background-image: url("../assets/images/flash-sale-fire-icon.png");
+  background-size: cover;
+  background-position: center;
+}
+
+.figma-62-6716 {
+  position: absolute;
+  left: 64px;
+  top: 12px;
+  width: 176px;
+  height: 84px;
+  background-color: rgba(255, 255, 255, 1);
+  background-image: url("../assets/images/souled-store-logo.png");
+  background-size: cover;
+  background-position: center;
+  border-radius: 16px;
+}
+
+.figma-62-6717 {
+  position: absolute;
+  left: 0px;
+  top: 2523px;
+  width: 1440px;
+  height: 67px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  padding: 8px 48px 8px 48px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.figma-62-6718 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 154px;
+  min-height: 51px;
+  background-color: rgba(0, 0, 0, 1);
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 51px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.figma-62-6719 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 104px;
+  min-height: 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  padding: 0px 0px 0px 0px;
+  align-items: center;
+}
+
+.figma-62-6720 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 24px;
+  min-height: 24px;
+}
+
+.figma-62-6721 {
+  position: absolute;
+  left: 2.25px;
+  top: 2.25px;
+  width: 19.5000057220459px;
+  height: 19.5000057220459px;
+  background-color: rgba(0, 0, 0, 1);
+}
+
+.figma-62-6722 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 24px;
+  min-height: 24px;
+}
+
+.figma-62-6723 {
+  position: absolute;
+  left: 2px;
+  top: 2px;
+  width: 20px;
+  height: 20px;
+  background-color: rgba(0, 0, 0, 1);
+}
+
+.figma-62-6724 {
+  position: relative;
+  flex: 0 0 auto;
+  width: 24px;
+  min-height: 24px;
+}
+
+.figma-62-6725 {
+  position: absolute;
+  left: 2px;
+  top: 4px;
+  width: 20px;
+  height: 19.81442642211914px;
+}
+
+.figma-62-6726 {
+  position: absolute;
+  left: 10.07421875px;
+  top: 19.14453125px;
+  width: 0.8359994888305664px;
+  height: 0.6698948740959167px;
+}
+
+.figma-62-6727 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 20px;
+  height: 16px;
+  background-color: rgba(0, 0, 0, 1);
+}
