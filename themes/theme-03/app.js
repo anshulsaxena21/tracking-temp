@@ -39,6 +39,22 @@
     }));
   }
 
+  function setupHistoryToggle() {
+    const toggle = document.querySelector(".history-toggle");
+    const panel = document.getElementById("historyPanel");
+    if (!toggle || !panel) return;
+
+    toggle.addEventListener("click", () => {
+      const isExpanded = toggle.getAttribute("aria-expanded") === "true";
+      toggle.setAttribute("aria-expanded", String(!isExpanded));
+      toggle.setAttribute(
+        "aria-label",
+        isExpanded ? "Show in-transit scan history" : "Hide in-transit scan history"
+      );
+      panel.hidden = isExpanded;
+    });
+  }
+
   function setupForm() {
     const form = document.getElementById("trackingForm");
     const input = document.getElementById("trackingValue");
@@ -117,6 +133,7 @@
   }
 
   setupTrackingModes();
+  setupHistoryToggle();
   setupForm();
   loadDesignAssets();
 })();
