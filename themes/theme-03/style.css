@@ -123,3 +123,28 @@
   .bottom-banner-copy h2{font-size:20px}
   .footer-contact,.footer-social{align-items:flex-start}
 }
+
+
+/* Keep the YouTube player fitted to its card at every breakpoint */
+.store-video{
+  position:relative;
+  width:100%;
+  height:auto;
+  aspect-ratio:16 / 9;
+  overflow:hidden;
+  border-radius:12px;
+  background:#000;
+}
+.store-video iframe{
+  position:absolute;
+  inset:0;
+  display:block;
+  width:100%;
+  height:100%;
+  min-width:0;
+  border:0;
+  border-radius:inherit;
+}
+@media(max-width:760px){
+  .store-video{height:auto;aspect-ratio:16 / 9}
+}
