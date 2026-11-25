@@ -36,6 +36,24 @@ This theme is a separate standalone implementation. It does not share styles or 
 
 The supplied ZIP is the source of these assets. The page no longer requests the ZIP at runtime. `app.js` maps each referenced filename to its original Figma-exported image URL, removing the broken repository-root ZIP dependency. Images load directly in the browser; if an upstream Figma asset URL becomes unavailable, the mapping can be switched to locally hosted repository assets.
 
+## Friendly asset names
+
+The implementation uses descriptive aliases for the original Figma-exported image URLs:
+
+| Friendly name | Used for |
+|---|---|
+| `offer-fire-icon.png` | Promotional offer icon |
+| `hero-campaign-background.png` | Main campaign hero background |
+| `courier-blue-dart-logo.png` | Courier logo in shipment summary |
+| `shopping-bag-illustration.png` | Shopping promotion illustration |
+| `product-navy-tshirt.png` | Product card 1 |
+| `product-black-graphic-tshirt.png` | Product card 2 |
+| `product-cream-tshirt.png` | Product card 3 |
+| `product-navy-polo-shirt.png` | Product card 4 |
+| `bottom-campaign-banner.png` | Bottom collection campaign banner |
+
+These are readable asset aliases in the code, not renamed binary files. The original Figma-hosted image URLs remain unchanged.
+
 ## Page sections
 
 1. Store header and navigation
