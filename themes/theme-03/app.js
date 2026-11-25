@@ -45,12 +45,24 @@
     if (!form || !input) return;
     form.addEventListener("submit", (event) => {
       event.preventDefault();
-      if (!input.value.trim()) {
+      const value = input.value.trim();
+      const mode = document.querySelector(".mode.active")?.dataset.mode || "waybill";
+      if (!value) {
         setMessage("Please enter your tracking details.", true);
         input.focus();
         return;
       }
-      setMessage("Demo preview: tracking details are displayed below. Connect your tracking API to load live shipment events.");
+      if (mode === "mobile" && !/^[+\\d][\\d\\s-]{7,14}$/.test(value)) {
+        setMessage("Please enter a valid mobile number.", true);
+        input.focus();
+        return;
+      }
+      if (mode !== "mobile" && value.length < 4) {
+        setMessage("Please enter at least 4 characters.", true);
+        input.focus();
+        return;
+      }
+      setMessage("Demo preview only: connect your courier tracking API to retrieve real shipment updates.");
       document.querySelector(".tracking-results")?.scrollIntoView({ behavior: "smooth", block: "start" });
     });
   }
