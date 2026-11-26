@@ -1,0 +1,946 @@
+[
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-12-2937-10390.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0xMi0yOTM3LTEwMzkwLnN2ZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTU2ODM3MjgsImV4cCI6MTc5NTY4NzMyOH0.-DLaFA05kPICj00pIMOTqEyGwCzbtO49QtyZNpq4PubPUoC3eWZdm_hYNeim_BpL1y2yjT5ACDFA6rGCY3F4ZA",
+    "name": "ellipse-12-2937-10390.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-12-2937-10390.svg",
+    "format": "svg",
+    "nodeId": "2937:10390",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-13-2937-10391.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0xMy0yOTM3LTEwMzkxLnN2ZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTU2ODM3MjgsImV4cCI6MTc5NTY4NzMyOH0.LEHt4erdzZtoFN-sVI9A7LXrsKakCUMDURMLQG65yh4vJFFt_ZSEi-nKnQylUnjMgc1YIvSnISR0hYqA5V8Oxg",
+    "name": "ellipse-13-2937-10391.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-13-2937-10391.svg",
+    "format": "svg",
+    "nodeId": "2937:10391",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-11-2937-9577.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0xMS0yOTM3LTk1Nzcuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.1bl5NllBGEHsK9kfvTNhfED7DWZSBa7MIXpw3O1kHRxBoM9k7zDUgqLIm3a-402hwBsKFMvOwuVkLhxR819kxg",
+    "name": "ellipse-11-2937-9577.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-11-2937-9577.svg",
+    "format": "svg",
+    "nodeId": "2937:9577",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9582.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctOTU4Mi5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.Xqso40D9WjvNUPLfr_TmPApsNcO8cGG7itiUdFMZA1bRurwE3evVzGLgRNd_SBJYiIIBbSAE_KcWEGyVhj3AxA",
+    "name": "vector-2937-9582.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9582.svg",
+    "format": "svg",
+    "nodeId": "2937:9582",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9585.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctOTU4NS5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.hEA3-huqE6LILRWyHj1EOtKwJeUB4z2OffMO1dhOcl9F_Dof_N9A51RG2Y3G6xWtJnu2wtct2_gNCHHVcaSUFQ",
+    "name": "vector-2937-9585.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9585.svg",
+    "format": "svg",
+    "nodeId": "2937:9585",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9586.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctOTU4Ni5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.CjCx21nAyU1Pzvyi5-x1amOOb0m4IsOXnMHDBKtyl5Q5iYoAPhKRSewIUM9SGibGUBmEBTQdzgY6iqMC_wnmQA",
+    "name": "vector-2937-9586.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9586.svg",
+    "format": "svg",
+    "nodeId": "2937:9586",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9587.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctOTU4Ny5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.dyoGimE4NqxAIhlinR_QVHIAZK624MdCrZi5-157YV-3-ZnGU5G1kNbogckfabXRn8igkEfatnktvlY3rkF7iA",
+    "name": "vector-2937-9587.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9587.svg",
+    "format": "svg",
+    "nodeId": "2937:9587",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9588.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctOTU4OC5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.XNb23QAmlsVW9em-RPTpgNBAFZbwiRV-3U3eQ0oaC4f8QKb8F0LXXhNBylAXjLJMuBugjHAC66DKHws9TN_ziw",
+    "name": "vector-2937-9588.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9588.svg",
+    "format": "svg",
+    "nodeId": "2937:9588",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9589.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctOTU4OS5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.VlLdmyB9Xr1YLI5B68gelMEIVHMFtH6hULihYQffnhFNG6Nu6lsM2htQZI9JX1-t3u_DXWjsm_wrpBf6tfYzQw",
+    "name": "vector-2937-9589.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9589.svg",
+    "format": "svg",
+    "nodeId": "2937:9589",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9590.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctOTU5MC5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.wgq1eDIAKQt3VQpHxyq6xu6daZ1cxIKtM1E99WThw-I5cK7qK1n24fUmEtGlm9Fget9uI23Dha3TspgQ_j_dcA",
+    "name": "vector-2937-9590.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9590.svg",
+    "format": "svg",
+    "nodeId": "2937:9590",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9591.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctOTU5MS5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.zuMZQTl48lP9TYw_sz0mwRl39bWP0kUMLSQFv4Pxz1Mcvd1s3ueBDqMo_EFidN6CbUaIKBBEotAh5IjcqIEgaw",
+    "name": "vector-2937-9591.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9591.svg",
+    "format": "svg",
+    "nodeId": "2937:9591",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9592.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctOTU5Mi5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.CoEEWfQgly5bX7e1ulZ14L71MR-uaUmumr__g22PqQsp2FQiTj_ycjGx61dLl5UBzEI3rbc7SQsFUxo0lLQNkA",
+    "name": "vector-2937-9592.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9592.svg",
+    "format": "svg",
+    "nodeId": "2937:9592",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9593.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctOTU5My5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.Hh1dnHwLyebKYBZp0jybQsPWJxbKg3X72g3oqud_YBP5If7RwWsmK7NCkh8V6mOGOWHZW9Bc33URfPfQMyfc7w",
+    "name": "vector-2937-9593.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9593.svg",
+    "format": "svg",
+    "nodeId": "2937:9593",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9596.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctOTU5Ni5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.Cru1QmcmNq9rO2-dOmuKhV4z0YdK1cSJ5fucXIvGLeu14j01dvnLHa0aYTiiDtJFZhfT1fKHuKe6SX6vj5xt0g",
+    "name": "vector-2937-9596.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9596.svg",
+    "format": "svg",
+    "nodeId": "2937:9596",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/fire-1f525-1-2937-9631.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZmlyZS0xZjUyNS0xLTI5MzctOTYzMS5wbmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.u8AYfSZ8hAL1Y-wiGqIALJ7UGT19075ScEHdAo-NBihEi88NZ0r3ocUC58LI0bVB7ymb4BoFEPWln0gg5QEpSw",
+    "name": "fire-1f525-1-2937-9631.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/fire-1f525-1-2937-9631.png",
+    "format": "png",
+    "nodeId": "2937:9631",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/subtract-2937-9632.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvc3VidHJhY3QtMjkzNy05NjMyLnBuZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTU2ODM3MjgsImV4cCI6MTc5NTY4NzMyOH0.nbfolJEdhZbE9bB7odu8cvpZh5AnfRvrer79tuVmID_Yt6N6x5XnZChd0DXL_NNQyVFUhW_pg1dOEqhS1we7NA",
+    "name": "subtract-2937-9632.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/subtract-2937-9632.png",
+    "format": "png",
+    "nodeId": "2937:9632",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/rectangle-40248-2937-9633.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvcmVjdGFuZ2xlLTQwMjQ4LTI5MzctOTYzMy5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.dbs4Kr_rrikTafORe3NO6bsMgM2e8hAikpWVzlSSSmOsAvhJDcD7u6GFhCaPnVImVCcpLfqhavJ0rBp_qb4wlg",
+    "name": "rectangle-40248-2937-9633.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/rectangle-40248-2937-9633.svg",
+    "format": "svg",
+    "nodeId": "2937:9633",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/rectangle-40250-2937-9634.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvcmVjdGFuZ2xlLTQwMjUwLTI5MzctOTYzNC5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9._50_N2MrTLiLZxWib9YK4RhsFQ3j7Zd0gIm3rsstvdMuHCtGxPqroh5p8ASA479Lv-M2BGTiNeIx7PAdazqfsQ",
+    "name": "rectangle-40250-2937-9634.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/rectangle-40250-2937-9634.svg",
+    "format": "svg",
+    "nodeId": "2937:9634",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/rectangle-40251-2937-9635.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvcmVjdGFuZ2xlLTQwMjUxLTI5MzctOTYzNS5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.A74Q_syEdPwOI3rIQss-vy4kcgclqBIe6-s_8EVwYhfjvfPNt2QOI4hjV18UNjBEcgyEkdBehuea1dwfKKtATg",
+    "name": "rectangle-40251-2937-9635.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/rectangle-40251-2937-9635.svg",
+    "format": "svg",
+    "nodeId": "2937:9635",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/rectangle-40252-2937-9636.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvcmVjdGFuZ2xlLTQwMjUyLTI5MzctOTYzNi5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.2sh43djkX4fMUUypICY9Nvj3OjoGBJx6WDx4aTxZwup1pfm2k1Kpez0TuemO6jtj-LN37s6DbOYPNU4ay4WfrQ",
+    "name": "rectangle-40252-2937-9636.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/rectangle-40252-2937-9636.svg",
+    "format": "svg",
+    "nodeId": "2937:9636",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/rectangle-40254-2937-9637.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvcmVjdGFuZ2xlLTQwMjU0LTI5MzctOTYzNy5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.PnR1nq3RbH_U7DTEbXbpUTImVYcmBRQKj8jAsk5m-89lIHHp7Lys7oGQCRQSX9JgBtqWsh9v7NuVOxMi0-jlsw",
+    "name": "rectangle-40254-2937-9637.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/rectangle-40254-2937-9637.svg",
+    "format": "svg",
+    "nodeId": "2937:9637",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-I2937-10394%3B6-3170.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvaW1hZ2UtSTI5MzctMTAzOTQlM0I2LTMxNzAucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.5briR1KVqRUaeyhwj3ynRMrN5m6tOeSI0IKGqClVr-X5LV8TeuSmXD7UyZ2A_pM5NRpZ7CGBQambf3jSDNvWPg",
+    "name": "image-I2937-10394;6-3170.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-I2937-10394;6-3170.png",
+    "format": "png",
+    "nodeId": "I2937:10394;6:3170",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-I2937-10395%3B6-3170.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvaW1hZ2UtSTI5MzctMTAzOTUlM0I2LTMxNzAucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.MFI7eR_nK-7x1LETQ523N4w0-z2UpWSYt1rp6-AOUFm6_ucqwC8tzqnZFQWD-7vfHkAe0n6d2TwrDcQTKnyGjw",
+    "name": "image-I2937-10395;6-3170.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-I2937-10395;6-3170.png",
+    "format": "png",
+    "nodeId": "I2937:10395;6:3170",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-I2937-10396%3B6-3170.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvaW1hZ2UtSTI5MzctMTAzOTYlM0I2LTMxNzAucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.qjXbzn6_6z7joHKG2YSAlAq7FM5apivJgpFhTpxErGoaiGRwbpb6wvkIGo6j_cxkeaVy-mW4g1jIRdoRtpg3EA",
+    "name": "image-I2937-10396;6-3170.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-I2937-10396;6-3170.png",
+    "format": "png",
+    "nodeId": "I2937:10396;6:3170",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-I2937-10397%3B6-3170.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvaW1hZ2UtSTI5MzctMTAzOTclM0I2LTMxNzAucG5nIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.oF8GjCLgq3_jn4drktgqqVT_J0RMqV4SRDYpSL5immdkd4apZPtigalQoqI_u3juc1xyGbtVB3Wg2lmHE-Pz-A",
+    "name": "image-I2937-10397;6-3170.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-I2937-10397;6-3170.png",
+    "format": "png",
+    "nodeId": "I2937:10397;6:3170",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-2-I2937-10088%3B48-1944.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0yLUkyOTM3LTEwMDg4JTNCNDgtMTk0NC5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.gG9RftC3PHTE1Fo-01hPqb6qeBS0CLsUmNTOPqsKSYEVCAOAUjz_vTg1o7XqewUhFA-0qKXU_6AUq-vLw2OHCg",
+    "name": "ellipse-2-I2937-10088;48-1944.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-2-I2937-10088;48-1944.svg",
+    "format": "svg",
+    "nodeId": "I2937:10088;48:1944",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-3-I2937-10088%3B48-1945.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0zLUkyOTM3LTEwMDg4JTNCNDgtMTk0NS5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.7GREZNBIPA4Z_dZh3BCy1Cq1uWRssfkYO3UXfLmf16skKNPf1Xpx2v_jZaNwRmJUZmxrsApBPiMJZjEanCkL-Q",
+    "name": "ellipse-3-I2937-10088;48-1945.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-3-I2937-10088;48-1945.svg",
+    "format": "svg",
+    "nodeId": "I2937:10088;48:1945",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-I2937-10088%3B50-2001.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLUkyOTM3LTEwMDg4JTNCNTAtMjAwMS5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.4gU7dbCkuYcT1EYfrdiP2DEfyIHla4nGgAaNOuRJi_Y6sA8CPFh9Ct2nvs7cpiU8DjHdsNNlbY71ZPL8B2gg5w",
+    "name": "vector-I2937-10088;50-2001.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-I2937-10088;50-2001.svg",
+    "format": "svg",
+    "nodeId": "I2937:10088;50:2001",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10091.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS00LTI5MzctMTAwOTEuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.d7QZ3MJMUZtnbD4M56QNEaTd1hZJHqoiU7JAUJr8taGg7klcteyapmVoZzOoifwT9gck2zLoE5W_zXGEuNetRA",
+    "name": "ellipse-4-2937-10091.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10091.svg",
+    "format": "svg",
+    "nodeId": "2937:10091",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10092.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS01LTI5MzctMTAwOTIuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.Cwjq9_pksQKVvtQyy8O4ce1-Sy1X2dq98utCnSBh4zg240bORsgPMtRCc8mU48vflh0jxAvQ_ssasNT8dW6NfQ",
+    "name": "ellipse-5-2937-10092.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10092.svg",
+    "format": "svg",
+    "nodeId": "2937:10092",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10093.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS03LTI5MzctMTAwOTMuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.lWN60DoihXPJ772505d0DSHmo4cOhWSHdUuPzuawRjC0V07332RlCRXrjc8N5TPgo6okJkxIRbtRMOu4wKwI6w",
+    "name": "ellipse-7-2937-10093.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10093.svg",
+    "format": "svg",
+    "nodeId": "2937:10093",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10094.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS04LTI5MzctMTAwOTQuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.Ff5Y6SsX3TEYDkYHCaiBFoWJd-8DT-HkEKimTbJ3P9_HUYsoxattXvLpUuPE3A7FkZZwZfZqE61-xsEccZv2dQ",
+    "name": "ellipse-8-2937-10094.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10094.svg",
+    "format": "svg",
+    "nodeId": "2937:10094",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10095.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS05LTI5MzctMTAwOTUuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.ve6qVO0YTBq5IrSIK2aK0lxpg8LZS7t893b_fKZbE6_30lp9awsuT76cDqs-PljL0JUwr1cq7oWA6bvnfFKuWg",
+    "name": "ellipse-9-2937-10095.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10095.svg",
+    "format": "svg",
+    "nodeId": "2937:10095",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10097.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS00LTI5MzctMTAwOTcuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.vDL9b4oV6Ab7-IaT-pS0_ghFfysEl68pe_41FiuT3bvlgogAlA1HFb50k0Fn-_v3wAqLWOnUY7-PDEuUZc0cMA",
+    "name": "ellipse-4-2937-10097.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10097.svg",
+    "format": "svg",
+    "nodeId": "2937:10097",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10098.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS01LTI5MzctMTAwOTguc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.01xOTmSO84pnh39vJCCS3hs9zE46vYmHzH-JK-D8alc4YVw5D5UX928NXh-D2ccKiErco6TcgO68wPinfJKrSQ",
+    "name": "ellipse-5-2937-10098.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10098.svg",
+    "format": "svg",
+    "nodeId": "2937:10098",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10099.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS03LTI5MzctMTAwOTkuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.ZgSTWM1L-TyoxlEj_IsJLYAKWRNFCPlir0JxChDho_D0rJ1svKQsU-r9nalsgkopGx0-1C87GwS8qfeLAJKNvg",
+    "name": "ellipse-7-2937-10099.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10099.svg",
+    "format": "svg",
+    "nodeId": "2937:10099",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10100.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS04LTI5MzctMTAxMDAuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.MBO6qu2qZkSI-ct__62yRU4jkRxVUUz4D_XPLAHWksBqMHXchgvWrufGUuT2AJFAnvjP7CihhmUrXuLBMR-vnw",
+    "name": "ellipse-8-2937-10100.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10100.svg",
+    "format": "svg",
+    "nodeId": "2937:10100",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10101.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS05LTI5MzctMTAxMDEuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.521vu5Efo2ybio7Q6vhwbkzhRyk9VekeLyZjRDS0VQzh7JZNwwDsoPBzwOwcY-hysxvcIlzjP66_Jw70qByN5w",
+    "name": "ellipse-9-2937-10101.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10101.svg",
+    "format": "svg",
+    "nodeId": "2937:10101",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-2-I2937-10109%3B48-1944.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0yLUkyOTM3LTEwMTA5JTNCNDgtMTk0NC5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9._zNUIjXoUeTIFsiU2Rfe5d_UlyGRKDlLyIOpRktOXlJ9LIewrfLUP5vN-fbdgb3jtkh1PaTRRpaACSHXW2d2tg",
+    "name": "ellipse-2-I2937-10109;48-1944.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-2-I2937-10109;48-1944.svg",
+    "format": "svg",
+    "nodeId": "I2937:10109;48:1944",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-3-I2937-10109%3B48-1945.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0zLUkyOTM3LTEwMTA5JTNCNDgtMTk0NS5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.OcYXMsaw2DfGXxRbHEOXFAtXLTdC7ADT8vMqpFbTiZTmtqKkBvGXupIvyLlb9yF4FyCf6yBn6InSdO7s8wuIzQ",
+    "name": "ellipse-3-I2937-10109;48-1945.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-3-I2937-10109;48-1945.svg",
+    "format": "svg",
+    "nodeId": "I2937:10109;48:1945",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-I2937-10109%3B50-2001.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLUkyOTM3LTEwMTA5JTNCNTAtMjAwMS5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.4Aft3tMiz-XFatUy72FHO8TE9zhGlddambIt5_kRJPVbpnNOCRp1rx_u96UOKhQIyPpNWOoS4-mnOcFuGEslfQ",
+    "name": "vector-I2937-10109;50-2001.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-I2937-10109;50-2001.svg",
+    "format": "svg",
+    "nodeId": "I2937:10109;50:2001",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10112.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS00LTI5MzctMTAxMTIuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.JUxYh6DgxWdvk_DUJiZ9vmhbFl0yUp_ZjnoDrLYWxZc13AkKJ4k_48cu9raUqbtBmObXu93Ovt1JZ_GgJesV_w",
+    "name": "ellipse-4-2937-10112.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10112.svg",
+    "format": "svg",
+    "nodeId": "2937:10112",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10113.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS01LTI5MzctMTAxMTMuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.udASeqAgsvdmuDGMTIAZPgsJgsy6gEIvq25EjZjxZA9t2L--7oZaldMMHcKvXPp5rdXaj2ZTW8jx6M7vd63C7w",
+    "name": "ellipse-5-2937-10113.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10113.svg",
+    "format": "svg",
+    "nodeId": "2937:10113",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10114.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS03LTI5MzctMTAxMTQuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.0i2s_WIUplBuXYaKPfLItCbkO8qGQfFnOAk8U_RuJHGbe9k9qV_VajGZBxuOyhCguGhhc2Ib62QFC-dOEBS38A",
+    "name": "ellipse-7-2937-10114.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10114.svg",
+    "format": "svg",
+    "nodeId": "2937:10114",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10115.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS04LTI5MzctMTAxMTUuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.MyCJVsz4ex5VfJ13KDsF22A9dQ9dgyoqwkZsPhwVzkDcFAhoPpZMXSEGCr690IGvH-0_PsrIaD7a5FnERYRHpw",
+    "name": "ellipse-8-2937-10115.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10115.svg",
+    "format": "svg",
+    "nodeId": "2937:10115",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10116.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS05LTI5MzctMTAxMTYuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.KnCKJsOvAI3ria1szObWUZ16ATny2EdyhKrNLbWXRUEiDefHRGb3tc9cTrCyg34FolH2sKSO3Pg8kacO6OJ60Q",
+    "name": "ellipse-9-2937-10116.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10116.svg",
+    "format": "svg",
+    "nodeId": "2937:10116",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10118.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS00LTI5MzctMTAxMTguc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.tIVtYyMDpeSG1xIkxVPSmVtw8Dc2s-XQWrrsi3vgZKFvKCcM6HAErzfLzz-K9VnSDO-u8YBVP1ddq9Rzkh0_Zg",
+    "name": "ellipse-4-2937-10118.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10118.svg",
+    "format": "svg",
+    "nodeId": "2937:10118",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10119.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS01LTI5MzctMTAxMTkuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.WDFvgcuylwAfxAkfjSqT3_jV736mbb8Yb6dF9htWh1IS3C9NUtzRzxbHos5gH0qXl2d4ggF-VXQ4BHn7DSUVuQ",
+    "name": "ellipse-5-2937-10119.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10119.svg",
+    "format": "svg",
+    "nodeId": "2937:10119",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10120.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS03LTI5MzctMTAxMjAuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.Wampt5K3nnzhNZSOn7PwZwV6mp6eFvjJkCaRjcHHdlWBjgTVEfEnO4MGPcx726v-BldCSgG_2imKxYQeXvfCGw",
+    "name": "ellipse-7-2937-10120.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10120.svg",
+    "format": "svg",
+    "nodeId": "2937:10120",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10121.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS04LTI5MzctMTAxMjEuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.TySImnMSM0k2GXWLt3ndhMJmVdiv-SkFk_0CNfwi_Zj3ujBN5pzcM_OOKmfMGKOatz5EQTPcwSHIAzXEyU0H3g",
+    "name": "ellipse-8-2937-10121.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10121.svg",
+    "format": "svg",
+    "nodeId": "2937:10121",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10122.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS05LTI5MzctMTAxMjIuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.gtxqaRnYkl3I-L8MLzji9yrTVcbP_kFRo5ZX1f2eX86bY0uEQpgWwGG7q9H-RQKUoN7GfDZdCryGrc7zb3pnYw",
+    "name": "ellipse-9-2937-10122.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10122.svg",
+    "format": "svg",
+    "nodeId": "2937:10122",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-2-I2937-10130%3B48-1944.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0yLUkyOTM3LTEwMTMwJTNCNDgtMTk0NC5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.BYrCewCpPcP6EdOUGCURwfB3E9-E_Ruiw46YcgGJI5KxDb4LZPi-dREmgFPwpLu4J827RWStFWlizLMC7Clfkg",
+    "name": "ellipse-2-I2937-10130;48-1944.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-2-I2937-10130;48-1944.svg",
+    "format": "svg",
+    "nodeId": "I2937:10130;48:1944",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-3-I2937-10130%3B48-1945.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0zLUkyOTM3LTEwMTMwJTNCNDgtMTk0NS5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.TBiVihCdzflAP4j3P73mVoic_iM4cyEhlA_BqoBYEUomoVbGPmjX-aB5wNHJLGN_c7tB9WW9FRzz_z5cN2fCoQ",
+    "name": "ellipse-3-I2937-10130;48-1945.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-3-I2937-10130;48-1945.svg",
+    "format": "svg",
+    "nodeId": "I2937:10130;48:1945",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-I2937-10130%3B50-2001.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLUkyOTM3LTEwMTMwJTNCNTAtMjAwMS5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.hG1U8KgtNK__boWQTDpX7vg_HDXe4Lp8ho1l99jmMdo17W4PSUmD3Qk4I4LEfhHt6jAA97ZMpqiOaEyb7jGL5Q",
+    "name": "vector-I2937-10130;50-2001.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-I2937-10130;50-2001.svg",
+    "format": "svg",
+    "nodeId": "I2937:10130;50:2001",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10133.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS00LTI5MzctMTAxMzMuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ._9SkNcY77ljMDInbXe4ElcZ0qR8YPqOeTkHAdb9Glc6qnGl5BQTWhlto46dEX4ULAnhvj6nRmicYGId9XFK7PQ",
+    "name": "ellipse-4-2937-10133.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10133.svg",
+    "format": "svg",
+    "nodeId": "2937:10133",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10134.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS01LTI5MzctMTAxMzQuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.sGLjVNicfJp2ARPJGblk3-uy3CnjDvYQMmUNtAjHxmQzWkFXPbGnHsyfjLFsBNzn39qcGYUpRyOcDBmA67pDoA",
+    "name": "ellipse-5-2937-10134.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10134.svg",
+    "format": "svg",
+    "nodeId": "2937:10134",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10135.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS03LTI5MzctMTAxMzUuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.5Lo-UZ7hU7QX8TqDRl3DYXzeSuu9LMqtttrfyhSBVH2LCoLuqngTnGDAohnROm-5mEVOmmgHU6Trhlp3R_YjDg",
+    "name": "ellipse-7-2937-10135.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10135.svg",
+    "format": "svg",
+    "nodeId": "2937:10135",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10136.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS04LTI5MzctMTAxMzYuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.xypizkaQu5BW2riaSVFCx5eb2voyfxAX951pAXmBf13JhFXfLGTFRCZAp2uvngXIDFT85j8cDeP_lBeqHIbesQ",
+    "name": "ellipse-8-2937-10136.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10136.svg",
+    "format": "svg",
+    "nodeId": "2937:10136",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10137.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS05LTI5MzctMTAxMzcuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.VvMirqLZ05VfH0nkzQbM41KATigjh95CsJ7gcTBTrcTGBWRdNg0wGedDZZBKMl2icuLfkRfPe15EcwksG7aBuQ",
+    "name": "ellipse-9-2937-10137.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10137.svg",
+    "format": "svg",
+    "nodeId": "2937:10137",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10139.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS00LTI5MzctMTAxMzkuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.SdhEdYcGlMH5YomvKK-gPH_GZXv3FaxPnCVePAp30Wu-mI3G1L4V9U2J-5ZrSKiJeY7cQmVS8JR3AogbaNQZUw",
+    "name": "ellipse-4-2937-10139.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10139.svg",
+    "format": "svg",
+    "nodeId": "2937:10139",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10140.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS01LTI5MzctMTAxNDAuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.OFTsIbb394X9JWgoepMLwA42vaGXA3nGA6rnsF6izNtlBy3AnPG5qIB2g_1-ZnXHAcs2933cZkdToaLxmqb-iw",
+    "name": "ellipse-5-2937-10140.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10140.svg",
+    "format": "svg",
+    "nodeId": "2937:10140",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10141.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS03LTI5MzctMTAxNDEuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.plMeRhARJ-APK3yqq1on3vZmvFoJr6vJ-IfAgcauvbnxjZH78Cfo8aeG6XNqx2hHqd6SSkb66KKS5FcQCBio6g",
+    "name": "ellipse-7-2937-10141.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10141.svg",
+    "format": "svg",
+    "nodeId": "2937:10141",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10142.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS04LTI5MzctMTAxNDIuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.hGSOLvNYUD05JAKw2FFtkUvbhERPFUwoNPbO8BHXg_bHg3MP3ht4Ovp2oBWxd9_YOcg5cNgvUvbqCFSYsv1N3w",
+    "name": "ellipse-8-2937-10142.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10142.svg",
+    "format": "svg",
+    "nodeId": "2937:10142",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10143.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS05LTI5MzctMTAxNDMuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.W16GVYpHRsL0dHBs1C8ykRzPDWI6BCnrz9-zgHZ6yQCg1uIovWVO9FwD79eGIP9Yr-KLCM_fIAU_pXh8YxFSBg",
+    "name": "ellipse-9-2937-10143.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10143.svg",
+    "format": "svg",
+    "nodeId": "2937:10143",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-2-2937-10154.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0yLTI5MzctMTAxNTQuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.0l8v3QKW0ApPBsDlqC62hnSBhAfUhW6ozfzcdWYTklHoQ6fRtoTUhwkXwM6DCAVqf4YXJJVOPMkWgzGg7bcZgw",
+    "name": "ellipse-2-2937-10154.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-2-2937-10154.svg",
+    "format": "svg",
+    "nodeId": "2937:10154",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-3-2937-10155.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0zLTI5MzctMTAxNTUuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.4vLZGl__846SdzenmbFzY9iEmHKJ9OzUNhyTXUVPUUvcPE3f2DHfxxbGrn6IhiRiSYKOShSMeQRCrPeHpFS6uA",
+    "name": "ellipse-3-2937-10155.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-3-2937-10155.svg",
+    "format": "svg",
+    "nodeId": "2937:10155",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-24-2937-10156.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvaW1hZ2UtMjQtMjkzNy0xMDE1Ni5wbmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.koGzBtfu0zW_3yazmsINGRqbClHyhAYCK0JTv67c4Q_yWwiKpsWvfVUIzF68NeoSH6J1_5x7BxMK8tGguJXOZQ",
+    "name": "image-24-2937-10156.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-24-2937-10156.png",
+    "format": "png",
+    "nodeId": "2937:10156",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10159.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS00LTI5MzctMTAxNTkuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.Kz7PKVh7FPxNVG8DEMsKvZGXmBRMWpXYWWrAmr_zgZ0haqV20HYlxYum9hKzdLG8DhCHYkHKvLBr5kpN8mzxuA",
+    "name": "ellipse-4-2937-10159.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10159.svg",
+    "format": "svg",
+    "nodeId": "2937:10159",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10160.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS01LTI5MzctMTAxNjAuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.YzJT6i2AE8g_AilN5Nm8MNd7LiVSEFeiqWaKk2ZRVedjXSPqvu3k_5S-Elq0vJXiNRrnfD1EjsETkc_3V7XF6A",
+    "name": "ellipse-5-2937-10160.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10160.svg",
+    "format": "svg",
+    "nodeId": "2937:10160",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10161.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS03LTI5MzctMTAxNjEuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.dQAxZNpVAirc-0uvSNDHsZfNzS-A7lE0_D9LJ_IA2zC6mo09Jxb4_itIEyXFCJDOgufZdGG3p98VdDqTyH_1CQ",
+    "name": "ellipse-7-2937-10161.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10161.svg",
+    "format": "svg",
+    "nodeId": "2937:10161",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10162.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS04LTI5MzctMTAxNjIuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.TvmLsLwWUWUVK8NbB3Q0TeNFCYJ5YivOmfLo6z1MoohZ4nr7ElW8ZwZ-f1EGBWh2GC7mIfX0Iq8C75Pr7lTa8A",
+    "name": "ellipse-8-2937-10162.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10162.svg",
+    "format": "svg",
+    "nodeId": "2937:10162",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10163.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS05LTI5MzctMTAxNjMuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.-7WQH4zmvQ10ZZQ5fkioottlFf2ivKdK9OJI_M2xNh5-TdoSHAcgj4lmwJK2FVVItYZsLWg600RrEyxH7N5mNg",
+    "name": "ellipse-9-2937-10163.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10163.svg",
+    "format": "svg",
+    "nodeId": "2937:10163",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10165.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS00LTI5MzctMTAxNjUuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.fjNkg80rjbm6JrLZNhqqMWcEP55VjZga5nTqC6bsRC3Q1XjuJOlze6HSHqgKLbORpdbfYWH9OYQN0cXXQ7VN8Q",
+    "name": "ellipse-4-2937-10165.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10165.svg",
+    "format": "svg",
+    "nodeId": "2937:10165",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10166.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS01LTI5MzctMTAxNjYuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.lltLuS93JnmQDYMHpQJRqSutKDrRcio7mR86hxKEHNA-uOnVdyrZcW5rwq8KaDnyMraL8R9DHpxPMBF_4gFoXA",
+    "name": "ellipse-5-2937-10166.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10166.svg",
+    "format": "svg",
+    "nodeId": "2937:10166",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10167.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS03LTI5MzctMTAxNjcuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.8oxjnxkdP5ZK7-gsV_mnzvpQPWdvmYK9Gj4_5yYCDUiPBGDkcJJj_u3IJcZdgNd7mL5J3GWtxQFbM26bosxh-A",
+    "name": "ellipse-7-2937-10167.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10167.svg",
+    "format": "svg",
+    "nodeId": "2937:10167",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10168.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS04LTI5MzctMTAxNjguc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ._qDkWLUfCDL9iFI4NqsAOfhbOK7tVj-qvnHzI359LDf5PC7ERfrrHe3Tf3jtDXv0Fb2XKxsKB0UCjq_RmJgoQQ",
+    "name": "ellipse-8-2937-10168.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10168.svg",
+    "format": "svg",
+    "nodeId": "2937:10168",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10169.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS05LTI5MzctMTAxNjkuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.2-UBmwfi0tr8Di_YGGeq5WjailoBMtt4OIqKytfo8jzUdFZTay8xy8cjfZ_mnogrqI7Ofxbq6cKTE5JjenlaKQ",
+    "name": "ellipse-9-2937-10169.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10169.svg",
+    "format": "svg",
+    "nodeId": "2937:10169",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-I2937-10173%3B19-29585.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLUkyOTM3LTEwMTczJTNCMTktMjk1ODUuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.pBpLPXF5SzkWvxU16NpjtryOCs8rTPkpDphogIB4U65JL_pKt8VhfOh7GOMsLdtckn6cklz1CL07FTbO_y5jGQ",
+    "name": "vector-I2937-10173;19-29585.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-I2937-10173;19-29585.svg",
+    "format": "svg",
+    "nodeId": "I2937:10173;19:29585",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-2-I2937-10179%3B48-1944.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0yLUkyOTM3LTEwMTc5JTNCNDgtMTk0NC5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.IvP5pmU5sp4E4P8uC-NTDyFLNKJYbcSKzucbQUu8jvhGTaqnLGsqgSc58Ym1cMj8T__ari5HbWlFvNUkGb8i4Q",
+    "name": "ellipse-2-I2937-10179;48-1944.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-2-I2937-10179;48-1944.svg",
+    "format": "svg",
+    "nodeId": "I2937:10179;48:1944",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-3-I2937-10179%3B48-1945.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0zLUkyOTM3LTEwMTc5JTNCNDgtMTk0NS5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.7YdUVmnnF8DB9JkdRL-DB501a48e3sh0jYgx6gnwD0xTpzl-4cCm5HMTyD_QuF-yYoY95kJp242h2cY4pjn_wg",
+    "name": "ellipse-3-I2937-10179;48-1945.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-3-I2937-10179;48-1945.svg",
+    "format": "svg",
+    "nodeId": "I2937:10179;48:1945",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10182.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS00LTI5MzctMTAxODIuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.CwMk88zTD9LVG8IPcFoAbiOGfoU6jYMZ2WWKkbN3EvrPNgA5kUHFsuHac11IjbYxFZfLTe5qOB7O_MltBAf4UQ",
+    "name": "ellipse-4-2937-10182.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10182.svg",
+    "format": "svg",
+    "nodeId": "2937:10182",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10183.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS01LTI5MzctMTAxODMuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.PX73R61hGDhjwPFEqQqni3JdHqvQyJWSpS2dMw8sJjjRcZUCoDyGRXgpeyP2P48j5gGoboZbUsZN-av-Ydipbg",
+    "name": "ellipse-5-2937-10183.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10183.svg",
+    "format": "svg",
+    "nodeId": "2937:10183",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10184.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS03LTI5MzctMTAxODQuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.uwrCi_KUi4xEwlXYHwDHCJCIbaalKm0jXCIu6KdZ1X-MCdMM-tzOgtRf7IXl2vBoGwS7oxTUl8V9mK_5rLzmgg",
+    "name": "ellipse-7-2937-10184.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10184.svg",
+    "format": "svg",
+    "nodeId": "2937:10184",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10185.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS04LTI5MzctMTAxODUuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.VM00rteondKFn5C0G2WQmFdrvP6a9-E8alO3tym18Q3ArTPyCtPuno3O3xGOU8XtkWM4OF7-uzEpKM3Df5ioDA",
+    "name": "ellipse-8-2937-10185.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10185.svg",
+    "format": "svg",
+    "nodeId": "2937:10185",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10186.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS05LTI5MzctMTAxODYuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.eo__Kr4sJhc2VHT_r114cJ5E5M-tFtGbKJukOnkuRJzXJ6U_4_i7Cj-us539MXA_LuPvmMUkVhTvucQYtdrxZA",
+    "name": "ellipse-9-2937-10186.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10186.svg",
+    "format": "svg",
+    "nodeId": "2937:10186",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10188.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS00LTI5MzctMTAxODguc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.qkb-WQtvRweIim5U7-BYGb3vVSW5KxLC1WgsozhhKLFVKiArCYXd9svSoVcsD-whCijo9ssV4dU3l1jPVOtYMg",
+    "name": "ellipse-4-2937-10188.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-4-2937-10188.svg",
+    "format": "svg",
+    "nodeId": "2937:10188",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10189.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS01LTI5MzctMTAxODkuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.g6yvSVYbDqwtMA9cV_MInnIRt5B9wBuZKTgTG9HtxH2C-PWgfF96g9WfvPmFkzAHzVbFWywf6SnY-05-_UnX7Q",
+    "name": "ellipse-5-2937-10189.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-5-2937-10189.svg",
+    "format": "svg",
+    "nodeId": "2937:10189",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10190.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS03LTI5MzctMTAxOTAuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.8KpzSahDYkXypCH2dghAdhJzzn5oGJmcMsb1R7iiWbRbJXZZ2sotNbx9DvQspFX3EF1q0hnap-vJpwjkC6F7Eg",
+    "name": "ellipse-7-2937-10190.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-7-2937-10190.svg",
+    "format": "svg",
+    "nodeId": "2937:10190",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10191.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS04LTI5MzctMTAxOTEuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.8zkZNrtppsqAaLSaE33I7cGWQABHr482YYiveDIgwq_KOg_GKRaQ30P41WfccG4UsEHfqANAa7PlCWTtspnZQw",
+    "name": "ellipse-8-2937-10191.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-8-2937-10191.svg",
+    "format": "svg",
+    "nodeId": "2937:10191",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10192.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS05LTI5MzctMTAxOTIuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.x1hl7lpm9RvXg4KWUu1mxshVygI6JZQtOcekrQfjqtdGEBuoX_BJLFDfeF9bDzqjMP9ZYJD-pT6qCTzcBbKdCg",
+    "name": "ellipse-9-2937-10192.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-9-2937-10192.svg",
+    "format": "svg",
+    "nodeId": "2937:10192",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-7-2937-10194.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvaW1hZ2UtNy0yOTM3LTEwMTk0LnBuZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTU2ODM3MjgsImV4cCI6MTc5NTY4NzMyOH0.tW42KNgNE49X58RNy3IAd0iosimsbDFl3GNu8w42jYu7KsA01SxVNRnVS0U0qxJMHXZSXlWAvhZywiLzTWzm7Q",
+    "name": "image-7-2937-10194.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-7-2937-10194.png",
+    "format": "png",
+    "nodeId": "2937:10194",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-23-2937-10195.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvaW1hZ2UtMjMtMjkzNy0xMDE5NS5wbmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.iqu9pc0ZPgK1MCw5hMikOX4rCxB_eO6nKRpzK2qajLVA73oDvpE5JoxXABAZpXade8fZyOPzN3ECJ-UMDUz4eA",
+    "name": "image-23-2937-10195.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-23-2937-10195.png",
+    "format": "png",
+    "nodeId": "2937:10195",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-2-2937-10206.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0yLTI5MzctMTAyMDYuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.XJsnqQ7urcIRhpoGD1-F2S03tqw2LTrakYLwoOhNpS7csIKDKEMeYywyfs7Etai-zFh8xYlAE_SLjqhNPQGDAA",
+    "name": "ellipse-2-2937-10206.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-2-2937-10206.svg",
+    "format": "svg",
+    "nodeId": "2937:10206",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-3-2937-10207.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0zLTI5MzctMTAyMDcuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.oM7PllZPlF8SjkO_Fw72dLUvNQB_vlHtsh8V_WP5MTKlMhRstxgHjSldKt531SysrriivBFi7wCOlzeKeyhnqQ",
+    "name": "ellipse-3-2937-10207.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-3-2937-10207.svg",
+    "format": "svg",
+    "nodeId": "2937:10207",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-26-2937-10208.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvaW1hZ2UtMjYtMjkzNy0xMDIwOC5wbmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.lDHgBqQsloEjKM23rKtRPKmOXOeh4GWzD_b60F95Yg3aEC7VL2N4a_Vxhc7PipoFutflR80EDnIXFotFU1DewQ",
+    "name": "image-26-2937-10208.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-26-2937-10208.png",
+    "format": "png",
+    "nodeId": "2937:10208",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-1-2937-10221.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvZWxsaXBzZS0xLTI5MzctMTAyMjEuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.a6ROxKbCNle7jTvut-WjJunsck1pmzGT0AaO5En85A3bIRnnEo32Qvtg8qd8_h2gNAT4CGhKl-M0GvreZ8A0og",
+    "name": "ellipse-1-2937-10221.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/ellipse-1-2937-10221.svg",
+    "format": "svg",
+    "nodeId": "2937:10221",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/line-1-2937-10226.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvbGluZS0xLTI5MzctMTAyMjYuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.kGP9VOM0KQSu9PeWJphntGR4yLlUAaWpd4wOHR98hwQpE4rB1poQyxcwZohyki-_cXG40ngbMd1qqjTohT_riQ",
+    "name": "line-1-2937-10226.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/line-1-2937-10226.svg",
+    "format": "svg",
+    "nodeId": "2937:10226",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/blue-dart-logo-transparent-1-2937-10229.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvYmx1ZS1kYXJ0LWxvZ28tdHJhbnNwYXJlbnQtMS0yOTM3LTEwMjI5LnBuZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTU2ODM3MjgsImV4cCI6MTc5NTY4NzMyOH0.5p_EM4MYmXXRvb50zDiK-6cQjSxUzLT8rdQF7XDvLXmt57-AArFi06Cn6IoWZs21zZUnMRhe6yIKjTPL4XCFkQ",
+    "name": "blue-dart-logo-transparent-1-2937-10229.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/blue-dart-logo-transparent-1-2937-10229.png",
+    "format": "png",
+    "nodeId": "2937:10229",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/line-2-2937-10230.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvbGluZS0yLTI5MzctMTAyMzAuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.b5L9hvF_XAWTbu9YQtElsYFBRqCQTGECGmEIcJA1OWcr8_J7OzziR5539jBvxw15l6QSy5XtIDV4v69iLC4RLw",
+    "name": "line-2-2937-10230.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/line-2-2937-10230.svg",
+    "format": "svg",
+    "nodeId": "2937:10230",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-2937-10431.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvaW1hZ2UtMjkzNy0xMDQzMS5wbmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.vfzjAbz4TQszaP7a2ajo7vsggXTyE-GBxbuFkmRa2TpDRlYT_nk0elmIMCI0EgQ-FnipjsDe5dkhSqKiy9sH6g",
+    "name": "image-2937-10431.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-2937-10431.png",
+    "format": "png",
+    "nodeId": "2937:10431",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/shadow-overlay-player-I2937-10431%3B1308-168166.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvc2hhZG93LW92ZXJsYXktcGxheWVyLUkyOTM3LTEwNDMxJTNCMTMwOC0xNjgxNjYuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.4L1GOj3TlRZAhkwWR68Tv2Tp4S1eBSwUp8h_tmgZhte6Hyt4iSkpEm6cZsAsJjLIcqcRUr-gksupSYaFHP_VOQ",
+    "name": "shadow-overlay-player-I2937-10431;1308-168166.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/shadow-overlay-player-I2937-10431;1308-168166.svg",
+    "format": "svg",
+    "nodeId": "I2937:10431;1308:168166",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/overlay-I2937-10431%3B1308-168167.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvb3ZlcmxheS1JMjkzNy0xMDQzMSUzQjEzMDgtMTY4MTY3LnBuZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTU2ODM3MjgsImV4cCI6MTc5NTY4NzMyOH0.9-gfUXt7M8o2NZQ9kY-SBWiu9CMf35cYVrLrLU1S-kuz2x04TxjrnyL-PwvQeAQGCo_ynkK49LiFXc0BOmWPzQ",
+    "name": "overlay-I2937-10431;1308-168167.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/overlay-I2937-10431;1308-168167.png",
+    "format": "png",
+    "nodeId": "I2937:10431;1308:168167",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/background-I2937-10431%3B1308-168168%3B1113-1536.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvYmFja2dyb3VuZC1JMjkzNy0xMDQzMSUzQjEzMDgtMTY4MTY4JTNCMTExMy0xNTM2LnN2ZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTU2ODM3MjgsImV4cCI6MTc5NTY4NzMyOH0.gCBBWlMLhFnZWwp4N3dqbHitQay2VYRhMjersUYfGHyXZ9sWCbZmBKAE5Hq1RBoB00iQ-XlTRRlm0GkoQOVIpw",
+    "name": "background-I2937-10431;1308-168168;1113-1536.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/background-I2937-10431;1308-168168;1113-1536.svg",
+    "format": "svg",
+    "nodeId": "I2937:10431;1308:168168;1113:1536",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/buffering-progress-I2937-10431%3B1308-168168%3B1113-1496.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvYnVmZmVyaW5nLXByb2dyZXNzLUkyOTM3LTEwNDMxJTNCMTMwOC0xNjgxNjglM0IxMTEzLTE0OTYuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.Q4ACN1B2pNo5wH8QLxhJYqr-nx-ygiBz6BN14Fft2RujdCFvVDVCr36xPIXESXJhLzkbbQgywdL_bMzwshTQ6A",
+    "name": "buffering-progress-I2937-10431;1308-168168;1113-1496.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/buffering-progress-I2937-10431;1308-168168;1113-1496.svg",
+    "format": "svg",
+    "nodeId": "I2937:10431;1308:168168;1113:1496",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/progress-line-I2937-10431%3B1308-168168%3B1113-1547.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvcHJvZ3Jlc3MtbGluZS1JMjkzNy0xMDQzMSUzQjEzMDgtMTY4MTY4JTNCMTExMy0xNTQ3LnN2ZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTU2ODM3MjgsImV4cCI6MTc5NTY4NzMyOH0.AbFEnCdCauUapKrRV32g_VJQrKOekZJziTd4WwwkbE0Lj7Za-YbyL7d7A1vz1crd85O77FnD_orrBnYR3NcQ7w",
+    "name": "progress-line-I2937-10431;1308-168168;1113-1547.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/progress-line-I2937-10431;1308-168168;1113-1547.svg",
+    "format": "svg",
+    "nodeId": "I2937:10431;1308:168168;1113:1547",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/play-I2937-10431%3B1308-168168%3B1113-1863.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvcGxheS1JMjkzNy0xMDQzMSUzQjEzMDgtMTY4MTY4JTNCMTExMy0xODYzLnN2ZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTU2ODM3MjgsImV4cCI6MTc5NTY4NzMyOH0.JO_U0OivwtvSH6dhvs4up_rJCMS1sIrqYGgV53xMqdZ0kHaFT07inXkVFFmwC10y0FSMpUgRhkfeQpCx_cdTqQ",
+    "name": "play-I2937-10431;1308-168168;1113-1863.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/play-I2937-10431;1308-168168;1113-1863.svg",
+    "format": "svg",
+    "nodeId": "I2937:10431;1308:168168;1113:1863",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/button-I2937-10431%3B1308-168172%3B1377-12743.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvYnV0dG9uLUkyOTM3LTEwNDMxJTNCMTMwOC0xNjgxNzIlM0IxMzc3LTEyNzQzLnN2ZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTU2ODM3MjgsImV4cCI6MTc5NTY4NzMyOH0.dyTodFzuucwYtn1k-VoGiK2Yy2WYluOSBcyjhdMFcAliEHGqonfUdJLYPPjo-qhWBomot9PfGDwzTSiwRHPNTA",
+    "name": "button-I2937-10431;1308-168172;1377-12743.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/button-I2937-10431;1308-168172;1377-12743.svg",
+    "format": "svg",
+    "nodeId": "I2937:10431;1308:168172;1377:12743",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/shape-I2937-10431%3B1308-168172%3B1377-12744.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvc2hhcGUtSTI5MzctMTA0MzElM0IxMzA4LTE2ODE3MiUzQjEzNzctMTI3NDQuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.cuNxh-8TL0ngeB88ugkMC6064GRnWhyMHf51Qy8gKYS5ZiMv74ae4L7trghhRoUsVqEluShQsuHkHCPvovSpmw",
+    "name": "shape-I2937-10431;1308-168172;1377-12744.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/shape-I2937-10431;1308-168172;1377-12744.svg",
+    "format": "svg",
+    "nodeId": "I2937:10431;1308:168172;1377:12744",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/shape-I2937-10431%3B1308-168172%3B1377-12745.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvc2hhcGUtSTI5MzctMTA0MzElM0IxMzA4LTE2ODE3MiUzQjEzNzctMTI3NDUuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.pn6-Bxt2_edfm-vEGaqm3yKUZJpUVJzQTgACKTqZl7J1gGZmRLR0wElM8QCPKbfxk324VxTipQU39hHhLmrPiw",
+    "name": "shape-I2937-10431;1308-168172;1377-12745.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/shape-I2937-10431;1308-168172;1377-12745.svg",
+    "format": "svg",
+    "nodeId": "I2937:10431;1308:168172;1377:12745",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/live-sell-1-1-2937-10371.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvbGl2ZS1zZWxsLTEtMS0yOTM3LTEwMzcxLnBuZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTU2ODM3MjgsImV4cCI6MTc5NTY4NzMyOH0.AxSsCtUyn3kb-Im_Zk72o2ztL9jQ6iSjF5orkk2XGAxb8U2I5hKErkPuq87DoTgxpCv9NkPq1UvoLehvLcdzXA",
+    "name": "live-sell-1-1-2937-10371.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/live-sell-1-1-2937-10371.png",
+    "format": "png",
+    "nodeId": "2937:10371",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9621.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctOTYyMS5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.I2d4_RHiBttdFfjzYudWyED_klrWfvyrdEdEnsXj9SZXQH_umZng_Zv2t75pH9Vvf5t3POmIPo5wbF-Dg1ibIA",
+    "name": "vector-2937-9621.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9621.svg",
+    "format": "svg",
+    "nodeId": "2937:9621",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9623.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctOTYyMy5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.cowT-w-oVeii8xOZJIkzVGAkERindhkLj8HE_giqmFx5YYm8N0qLOm_qUjUeKjpNnDVzCNKVwSIV2qO06O9tIQ",
+    "name": "vector-2937-9623.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9623.svg",
+    "format": "svg",
+    "nodeId": "2937:9623",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9627.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctOTYyNy5zdmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.xr5Bv4_CsGQEpHS3QxC6BLX5uZZIJieGNO9AW7DiZdWG0KeglNg2AWBDvE3-AKtmqEmw-qJQUBYCu9RTbGbq6g",
+    "name": "vector-2937-9627.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-9627.svg",
+    "format": "svg",
+    "nodeId": "2937:9627",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-10380.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctMTAzODAuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.DhDjjkkoU2zubd1VG9Wo7GzAGDmKRCoqugqL47O8-_cojttbnJ5ZF0kEUOCYFabFIZTLm_3-oFjg10oOFtnCfw",
+    "name": "vector-2937-10380.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-10380.svg",
+    "format": "svg",
+    "nodeId": "2937:10380",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-10384.svg?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdmVjdG9yLTI5MzctMTAzODQuc3ZnIiwic2NvcGUiOiJkb3dubG9hZCIsImlhdCI6MTc5NTY4MzcyOCwiZXhwIjoxNzk1Njg3MzI4fQ.dbzCd79vjh9POeC4HozBr5tUwcDcGwlraKXtn1lU0YuRczCuj89yFJTgm81JgsH94r_VUbrM51_8qi6c4w4EyA",
+    "name": "vector-2937-10384.svg",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/vector-2937-10384.svg",
+    "format": "svg",
+    "nodeId": "2937:10384",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/live-sell-2-1-2937-10060.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvbGl2ZS1zZWxsLTItMS0yOTM3LTEwMDYwLnBuZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTU2ODM3MjgsImV4cCI6MTc5NTY4NzMyOH0.cFQKeLg3InPpjZsKEhHqdEl4k04M7G_tomeVoxavC5zbWk3Tlg7yz8obkyQ8tToej1fk5mI4DvYcl_VVl2Ht-g",
+    "name": "live-sell-2-1-2937-10060.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/live-sell-2-1-2937-10060.png",
+    "format": "png",
+    "nodeId": "2937:10060",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-18-2937-10430.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvaW1hZ2UtMTgtMjkzNy0xMDQzMC5wbmciLCJzY29wZSI6ImRvd25sb2FkIiwiaWF0IjoxNzk1NjgzNzI4LCJleHAiOjE3OTU2ODczMjh9.Bu6-xxpBZerwni5FG-iuLbFGzRgVzbY2dXmoBlxRMPNVDcbRpmR1DGuYdCUibEZSlvHSwhgiu6FuX8ebAXSq9g",
+    "name": "image-18-2937-10430.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/image-18-2937-10430.png",
+    "format": "png",
+    "nodeId": "2937:10430",
+    "stored": true
+  },
+  {
+    "url": "https://ovdxipfxychotaspfccl.supabase.co/storage/v1/object/sign/figma-assets/cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/travel-3-1-2970-10543.png?token=eyJraWQiOiJlMWY4NzliMC04NWY4LTRkZDYtYmVhMC1jNTU5OTdmNWU5YzEiLCJhbGciOiJFUzI1NiJ9.eyJ1cmwiOiJmaWdtYS1hc3NldHMvY2JmYjMxNTEtMDI3MC00ZjI2LWE2YmMtZTg4Y2RiYWY4NTk5LzQ4clFucEZHV2tTMzRLZWhQeGR1TDcvdHJhdmVsLTMtMS0yOTcwLTEwNTQzLnBuZyIsInNjb3BlIjoiZG93bmxvYWQiLCJpYXQiOjE3OTU2ODM3MjgsImV4cCI6MTc5NTY4NzMyOH0.OO5FIymcePTGH-jEB82wLbW43SqhAaQUS-GswS8XoRutZry5E6uvkgnL-MzJa7CTK3mCBh73vMrzOiQVxmv7xw",
+    "name": "travel-3-1-2970-10543.png",
+    "path": "cbfb3151-0270-4f26-a6bc-e88cdbaf8599/48rQnpFGWkS34KehPxduL7/travel-3-1-2970-10543.png",
+    "format": "png",
+    "nodeId": "2970:10543",
+    "stored": true
+  }
+]
