@@ -45,20 +45,6 @@ for (const [from, to] of [[designPath,"figma-design.json"],[layerPath,"layer-des
   if (fs.existsSync(from)) fs.copyFileSync(from, path.join(docsTarget, to));
 }
 
-const allExtractedFiles = [];
-function listFiles(dir, prefix = "") {
-  if (!fs.existsSync(dir)) return;
-  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
-    const rel = path.posix.join(prefix, entry.name);
-    const full = path.join(dir, entry.name);
-    if (entry.isDirectory()) listFiles(full, rel);
-    else allExtractedFiles.push(rel);
-  }
-}
-listFiles(temp);
-console.log("ZIP extracted file count:", allExtractedFiles.length);
-console.log("ZIP image folders:", allExtractedFiles.filter(name => /image|product|10394|10395|10396|10397/i.test(name)).slice(0, 160));
-
 const manifestPath = path.join(temp, "assets/asset-manifest.json");
 let manifest = [];
 if (fs.existsSync(manifestPath)) {
