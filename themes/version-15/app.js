@@ -53,8 +53,10 @@ function loadFigmaAssets() {
     const index = Number(image.dataset.productImage);
     const nodeId = unavailableProductNodes[index];
     image.removeAttribute("src");
+    image.hidden = true;
+    image.alt = "";
+    image.setAttribute("aria-hidden", "true");
     image.dataset.assetStatus = "awaiting-export";
-    image.alt = "Product image awaiting its original Figma export";
     image.closest(".product-card")?.classList.add("product-card--asset-pending");
     console.warn("Original product image export is missing from assets/images:", nodeId);
   });
