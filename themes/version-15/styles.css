@@ -114,6 +114,7 @@ tbody tr:last-child td{border-bottom:0}
  .delivery-card{padding:22px;min-height:0}
  .delivery-card h2{font-size:clamp(40px,5vw,54px)}
  .progress-card{padding:16px 10px}
+ .progress-list:before{left:2%;right:2%;top:52px}
  .step-date{font-size:10px}
  .step-label{font-size:9px}
  .history-card{padding:16px}
