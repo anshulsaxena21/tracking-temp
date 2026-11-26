@@ -1,66 +1,62 @@
-const IMAGE_BASE = "assets/images/";
-const ASSET_MAP_URL = "assets/images/asset-map.json";
+// Version 15 — explicit mapping to the filenames actually present in assets/images.
+// The exported asset-map.json retains pre-normalized names; the committed files have
+// numeric export prefixes. Keep this map aligned with the repository tree.
+const IMAGE_BASE = new URL("./assets/images/", document.baseURI);
 
-const directNodeAssets = {
-  "2970:10543": "travel-3-1-2970-10543.png",
-  "2937:10229": "blue-dart-logo-transparent-1-2937-10229.png",
-  "2937:10431": "image-2937-10431.png",
-  "2937:10060": "live-sell-2-1-2937-10060.png",
-  "2937:10430": "image-18-2937-10430.png",
-  "2937:10371": "live-sell-1-1-2937-10371.png"
+const imageAssetsByNode = {
+  "2970:10543": "118-travel-3-1-2970-10543.png",
+  "2937:10229": "098-blue-dart-logo-transparent-1-2937-10229.png",
+  "2937:10431": "100-image-2937-10431.png",
+  "2937:10060": "116-live-sell-2-1-2937-10060.png",
+  "2937:10430": "117-image-18-2937-10430.png",
+  "2937:10371": "110-live-sell-1-1-2937-10371.png"
 };
 
-const productNodeIds = [
+// The four product-image exports are listed in asset-map.json but are not
+// present in assets/images in the current repository commit. Do not request
+// nonexistent URLs or show broken-image icons; restore these when exports arrive.
+const unavailableProductNodes = [
   "I2937:10394;6:3170",
   "I2937:10395;6:3170",
   "I2937:10396;6:3170",
   "I2937:10397;6:3170"
 ];
 
-function assetUrl(filename) {
-  return IMAGE_BASE + filename.split("/").map(encodeURIComponent).join("/");
-}
-
-function applyImage(image, filename) {
-  if (!image || !filename) return;
-  image.src = assetUrl(filename);
+function setLocalAsset(image, filename) {
+  const url = new URL(filename, IMAGE_BASE);
+  image.src = url.href;
   image.addEventListener("error", () => {
-    image.classList.add("asset-load-error");
-    console.error("Could not load Version 15 image asset:", filename);
+    image.removeAttribute("src");
+    image.dataset.assetStatus = "missing";
+    console.error("Version 15 asset file not found:", url.pathname);
+  }, { once: true });
+  image.dataset.assetStatus = "loading";
+  image.addEventListener("load", () => {
+    image.dataset.assetStatus = "loaded";
   }, { once: true });
 }
 
-async function loadFigmaAssets() {
-  let assets = [];
-  try {
-    const response = await fetch(ASSET_MAP_URL, { cache: "no-cache" });
-    if (!response.ok) throw new Error("Asset map request failed: " + response.status);
-    const manifest = await response.json();
-    assets = Array.isArray(manifest.assets) ? manifest.assets : [];
-  } catch (error) {
-    console.error("Version 15 asset map could not be loaded.", error);
-  }
-
-  const byNodeId = new Map(assets.map(asset => [asset.nodeId, asset]));
-
-  document.querySelectorAll("[data-asset-node]").forEach(image => {
+function loadFigmaAssets() {
+  document.querySelectorAll("img[data-asset-node]").forEach(image => {
     const nodeId = image.dataset.assetNode;
-    const asset = byNodeId.get(nodeId);
-    const filename = asset?.filename || directNodeAssets[nodeId];
-    if (filename) applyImage(image, filename);
-    else console.warn("No mapped Version 15 asset for Figma node:", nodeId);
+    const filename = imageAssetsByNode[nodeId];
+    if (filename) {
+      setLocalAsset(image, filename);
+    } else {
+      image.removeAttribute("src");
+      image.dataset.assetStatus = "unmapped";
+      console.warn("No exported image mapped for Figma node:", nodeId);
+    }
   });
 
-  document.querySelectorAll("[data-product-image]").forEach(image => {
+  document.querySelectorAll("img[data-product-image]").forEach(image => {
     const index = Number(image.dataset.productImage);
-    const asset = byNodeId.get(productNodeIds[index]);
-    if (asset?.filename) {
-      applyImage(image, asset.filename);
-      image.alt = ["Featured product image 1", "Featured product image 2", "Featured product image 3", "Featured product image 4"][index] || "Featured product";
-    } else {
-      image.closest(".product-card")?.classList.add("product-card--asset-pending");
-      console.warn("No mapped product image for card:", index);
-    }
+    const nodeId = unavailableProductNodes[index];
+    image.removeAttribute("src");
+    image.dataset.assetStatus = "awaiting-export";
+    image.alt = "Product image awaiting its original Figma export";
+    image.closest(".product-card")?.classList.add("product-card--asset-pending");
+    console.warn("Original product image export is missing from assets/images:", nodeId);
   });
 }
 
