@@ -1,0 +1,38 @@
+name: Prepare Theme Version 15 assets
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'themes/version-15/**'
+      - 'scripts/prepare-theme-version-15.mjs'
+      - '.github/workflows/prepare-theme-version-15.yml'
+      - 'px-custom-tracking-ds-website-wq3c-aefwrds-bundle Version 15.zip'
+      - 'figma-design Version 15.json'
+      - 'layer-descriptions Version 15.json'
+      - 'layer-descriptions Version 15.csv'
+      - 'figma-tokens Version 15.css'
+permissions:
+  contents: write
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Extract original Version 15 assets and documentation
+        run: node scripts/prepare-theme-version-15.mjs
+      - name: Commit prepared theme assets
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add themes/version-15/assets themes/version-15/source themes/version-15/docs
+          if git diff --cached --quiet; then
+            echo "Version 15 assets are already prepared."
+          else
+            git commit -m "Prepare Version 15 original assets and design documentation"
+            git push
+          fi
