@@ -21,7 +21,7 @@ button,input{font:inherit}
 .hero{width:calc(100% - 48px);max-width:none;height:499px;position:relative;margin:46px auto 0;border-radius:40px;background-color:#fff;background-image:url("./assets/images/016-subtract-2937-9632.png");background-position:center;background-size:100% 100%;background-repeat:no-repeat;overflow:visible;padding:63px 64px}
 /* Figma node 2937:9632 — original exported Subtract hero background. */
 .hero-copy{position:relative;z-index:2}
-.hero-copy h1{margin:0;font-size:clamp(64px,6.08vw,87.6px);line-height:1.3;font-weight:700;letter-spacing:-2.29px;max-width:743px}
+.hero-copy h1{margin:0;font-size:clamp(64px,5.6vw,80px);line-height:1.3;font-weight:700;letter-spacing:-2.1px;max-width:743px}
 .hero-copy p{position:absolute;top:118px;left:0;margin:0;color:#f24d9d;font-size:64px;line-height:1.17;font-weight:700;font-style:italic;letter-spacing:-.73px}
 .hero-art{position:absolute;right:-44px;top:-21px;width:723px;height:542px;object-fit:contain;z-index:1}
 .track-form{position:absolute;z-index:3;left:40px;right:auto;width:1052px;bottom:41px;min-height:159px;padding:28px 54px 20px;background:#fff;border:1px solid #eee;border-radius:16px;box-shadow:none}
