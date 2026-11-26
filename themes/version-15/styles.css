@@ -205,4 +205,4 @@ tbody tr:last-child td{border-bottom:0}
 }
 
 /* Figma-measured 1440px composition refinements */
-@media(min-width:1051px){.tracking-section{width:1312px}.feature-pair{width:1312px}.product-grid{overflow:visible}.product-card{box-shadow:0 4px 16px rgba(0,0,0,.06)}}
+@media(min-width:1376px){.tracking-section{width:1312px}.feature-pair{width:1312px}.product-grid{overflow:visible}.product-card{box-shadow:0 4px 16px rgba(0,0,0,.06)}}
