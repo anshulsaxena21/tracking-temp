@@ -18,10 +18,8 @@ button,input{font:inherit}
 .main-nav a:hover,.contact-bar a:hover{color:var(--orange)}
 .announcement{height:68px;background:#f9f8f8;display:flex;align-items:center;justify-content:center;gap:14px;font-size:14px;font-weight:500}
 .announcement i{color:var(--orange);font-size:22px}
-.hero{height:500px;position:relative;margin-top:24px;border-radius:40px;background:linear-gradient(110deg,#fffdf8 0%,#fff 57%,#f8fcfb 100%);overflow:visible;padding:66px 28px}
-.hero:before,.hero:after{content:"";position:absolute;border-radius:50%;pointer-events:none;filter:blur(1px);opacity:.55}
-.hero:before{width:120px;height:120px;background:#fff1ed;left:42%;bottom:24px}
-.hero:after{width:90px;height:90px;background:#effaf8;right:2%;top:40px}
+.hero{height:500px;position:relative;margin-top:24px;border-radius:40px;background-color:#fff;background-image:url("./assets/images/016-subtract-2937-9632.png");background-position:center;background-size:100% 100%;background-repeat:no-repeat;overflow:visible;padding:66px 28px}
+/* Figma node 2937:9632 — original exported Subtract hero background. */
 .hero-copy{position:relative;z-index:2}
 .hero-copy h1{margin:0;font-size:56px;line-height:1.2;font-weight:700;letter-spacing:-1.8px}
 .hero-copy p{margin:10px 0 0;color:#f24d9d;font-size:54px;line-height:1.15;font-weight:700;font-style:italic}
